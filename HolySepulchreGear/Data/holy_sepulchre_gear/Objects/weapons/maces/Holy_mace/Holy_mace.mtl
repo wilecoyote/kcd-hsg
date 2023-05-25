@@ -9,7 +9,7 @@
       <Textures>
         <Texture Map="Diffuse" File="objects/weapons/maces/mace08_diff.tif" />
         <Texture Map="Bumpmap" File="objects/weapons/maces/mace08_ddna.tif" />
-        <Texture Map="Specular" File="objects/weapons/maces/Holy_mace_spec.tif" />
+        <Texture Map="Specular" File="objects/weapons/maces/Holy_mace/Holy_mace_spec.tif" />
         <Texture Map="Detail" File="objects/weapons/maces/mace08_dtmask.tif">
           <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="3" TileV="3" />
         </Texture>
