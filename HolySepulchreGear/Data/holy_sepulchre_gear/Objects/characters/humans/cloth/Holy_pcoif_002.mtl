@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Material MtlFlags="524290" Shader="Illum" GenMask="100C0100062400" StringGenMask="%CLIP_BY_VERTEX_COLOR%COLORIZING%COLORIZING_WITH_MASK%DETAIL_MAPPING%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%THREE_POINT_LIGHTING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" AlphaTest="0.41999999" vertModifType="0" LayerAct="1">
+  <Textures>
+    <Texture Map="Diffuse" File="objects/characters/humans/cloth/Holy_pcoif_002_diff.tif" />
+    <Texture Map="Bumpmap" File="objects/characters/humans/cloth/s1_p1_l1_v0_tx001_ddna.tif" />
+    <Texture Map="Specular" File="objects/characters/humans/cloth/s1_p1_l1_v0_tx001_spec.tif" />
+    <Texture Map="Detail" File="textures/detailmaps/fabric_02_detail_dt.dds">
+      <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="8" TileV="8" />
+    </Texture>
+  </Textures>
+  <PublicParams ClipControl="0" ColorizingSaturation="1" MaskBrightness3="1" MaskSaturation1="1" EmittanceMapGamma="1" MaskHue3="0" MaskHue2="0" MaskBrightness2="1" DetailDiffuseScale="1" SSSIndex="1.1" DetailBumpScale="4.6599998" MaskSaturation2="1" ColorizingHue="0" MaskSaturation3="1" DetailGlossScale="0.5" MaskHue1="0" ColorizingBrightness="1" MaskBrightness1="1" IndirectColor="0.25,0.25,0.25" />
+</Material>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="shop_type2item" version="1">
+    <rows>
+      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
+      <!-- HELMETS -->
+      <!-- Hounskull -->
+      <row amount="1" default_on="True" item_id="d2c96624-c8a8-4d15-af8c-de461a69bd83" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="d2c96624-c8a8-4d15-af8c-de461a69bd83" shop_type_id="66" />
+      <row amount="1" default_on="True" item_id="d2c96624-c8a8-4d15-af8c-de461a69bd83" shop_type_id="81" />
+      <!-- Bascinet (common, open) -->
+      <row amount="1" default_on="True" item_id="e3da7735-d9b9-5e26-b09d-ef572b7ace94" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="e3da7735-d9b9-5e26-b09d-ef572b7ace94" shop_type_id="66" />
+      <row amount="1" default_on="True" item_id="e3da7735-d9b9-5e26-b09d-ef572b7ace94" shop_type_id="81" />
+      
+      <!-- GOLD -->
+      <!-- Cuirass -->
+      <row amount="1" default_on="True" item_id="3ac36b1d-2d08-42fb-b07b-0dfca5b646d4" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="3ac36b1d-2d08-42fb-b07b-0dfca5b646d4" shop_type_id="66" />
+      <row amount="1" default_on="True" item_id="3ac36b1d-2d08-42fb-b07b-0dfca5b646d4" shop_type_id="81" />
+      <!-- Chausses -->
+      <row amount="1" default_on="True" item_id="760d04b2-2e25-46e3-b95f-e9e5153bf25d" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="760d04b2-2e25-46e3-b95f-e9e5153bf25d" shop_type_id="66" />
+      <row amount="1" default_on="True" item_id="760d04b2-2e25-46e3-b95f-e9e5153bf25d" shop_type_id="81" />
+      <!-- Pauldrons -->
+      <row amount="1" default_on="True" item_id="3b3657e0-aee1-4a89-b1b9-ae384b5c5e16" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="3b3657e0-aee1-4a89-b1b9-ae384b5c5e16" shop_type_id="66" />
+      <row amount="1" default_on="True" item_id="3b3657e0-aee1-4a89-b1b9-ae384b5c5e16" shop_type_id="81" />
+      <!-- Gauntlets -->
+      <row amount="1" default_on="True" item_id="20463222-25d6-47d7-9f9f-ff9262867ea0" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="20463222-25d6-47d7-9f9f-ff9262867ea0" shop_type_id="66" />
+      <row amount="1" default_on="True" item_id="20463222-25d6-47d7-9f9f-ff9262867ea0" shop_type_id="81" />
+      
+      <!-- SILVER -->
+      <!-- Cuirass -->
+      <row amount="1" default_on="True" item_id="4bd47c2e-3e19-530c-c18c-1e0db6c757e5" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="4bd47c2e-3e19-530c-c18c-1e0db6c757e5" shop_type_id="66" />
+      <row amount="1" default_on="True" item_id="4bd47c2e-3e19-530c-c18c-1e0db6c757e5" shop_type_id="81" />
+      <!-- Chausses -->
+      <row amount="1" default_on="True" item_id="871e15c3-3f36-57f4-ca60-faf6264c036e" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="871e15c3-3f36-57f4-ca60-faf6264c036e" shop_type_id="66" />
+      <row amount="1" default_on="True" item_id="871e15c3-3f36-57f4-ca60-faf6264c036e" shop_type_id="81" />
+      <!-- Pauldrons -->
+      <row amount="1" default_on="True" item_id="4c4768f1-bff2-5b8a-c2ca-bf495c6d6f27" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="4c4768f1-bff2-5b8a-c2ca-bf495c6d6f27" shop_type_id="66" />
+      <row amount="1" default_on="True" item_id="4c4768f1-bff2-5b8a-c2ca-bf495c6d6f27" shop_type_id="81" />
+      <!-- Gauntlets -->
+      <row amount="1" default_on="True" item_id="31574333-36e7-58e8-a0a0-00a373978fb1" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="31574333-36e7-58e8-a0a0-00a373978fb1" shop_type_id="66" />
+      <row amount="1" default_on="True" item_id="31574333-36e7-58e8-a0a0-00a373978fb1" shop_type_id="81" />
+      
+      <!-- OTHER -->
+      <!-- Gambeson (Threadbare Dark) -->
+      <row amount="1" default_on="True" item_id="576afe01-8233-688d-f00e-6f14b0bd88c0" shop_type_id="28" />
+      <!-- Hauberk -->
+      <row amount="1" default_on="True" item_id="56b4a255-14ff-78c3-f8ad-975cfe0a4297" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="56b4a255-14ff-78c3-f8ad-975cfe0a4297" shop_type_id="66" />
+      <row amount="1" default_on="True" item_id="56b4a255-14ff-78c3-f8ad-975cfe0a4297" shop_type_id="81" />
+      <!-- Hose (Tight Black) -->
+      <row amount="1" default_on="True" item_id="473110cf-b888-a84b-7c65-e5b1beab47ac" shop_type_id="28" />
+      <!-- Jupon -->
+      <row amount="1" default_on="True" item_id="59e99fab-83c9-c716-10f9-cf7d73f6e69d" shop_type_id="28" />
+      <!-- Mail Chausses -->
+      <row amount="1" default_on="True" item_id="55246a62-d02d-030e-2601-101fb333b695" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="55246a62-d02d-030e-2601-101fb333b695" shop_type_id="66" />
+      <row amount="1" default_on="True" item_id="55246a62-d02d-030e-2601-101fb333b695" shop_type_id="81" />
+      <!-- Mail Coif -->
+      <row amount="1" default_on="True" item_id="50cd9c27-7f69-b05f-9ca6-6aa74eb6f0a7" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="50cd9c27-7f69-b05f-9ca6-6aa74eb6f0a7" shop_type_id="66" />
+      <row amount="1" default_on="True" item_id="50cd9c27-7f69-b05f-9ca6-6aa74eb6f0a7" shop_type_id="81" />
+      <!-- Mail Collar -->
+      <row amount="1" default_on="True" item_id="b2a885bc-03ab-48eb-be49-a267e88cd260" shop_type_id="8" />
+      <row amount="1" default_on="True" item_id="b2a885bc-03ab-48eb-be49-a267e88cd260" shop_type_id="81" />
+      <!-- Neck Chain -->
+      <row amount="1" default_on="False" item_id="1c0843dc-db2a-501c-b670-d94b8a917e90" shop_type_id="35" />
+      <!-- Padded Coif -->
+      <row amount="1" default_on="True" item_id="5edc7995-1cf1-db2c-43f7-f31ddcd69d90" shop_type_id="28" />
+      <!-- Padded Coif II -->
+      <row amount="1" default_on="True" item_id="5fbdb430-eb4f-d82b-1a45-1720deb35199" shop_type_id="28" />
+      <!-- Ring -->
+      <row amount="1" default_on="False" item_id="99f3d0db-2098-5107-a7a2-5517787e813d" shop_type_id="35" />
+      <!-- Scarf (Black) -->
+      <row amount="1" default_on="True" item_id="5d524610-04ed-9a21-1f57-20a48f57e9a4" shop_type_id="28" />
+      <!-- Spurs -->
+      <row amount="1" default_on="True" item_id="b0703a57-df65-5f49-ac3c-6bca6e6d5888" shop_type_id="62" />
+      <row amount="1" default_on="True" item_id="b0703a57-df65-5f49-ac3c-6bca6e6d5888" shop_type_id="63" />
+      
+      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: WEAPONS -->
+      <!-- Axe -->
+      <row amount="1" default_on="True" item_id="9f3ddbb2-28d3-5df0-c489-f82ed94ceec8" shop_type_id="10" />
+      <row amount="1" default_on="True" item_id="9f3ddbb2-28d3-5df0-c489-f82ed94ceec8" shop_type_id="31" />
+      <row amount="1" default_on="True" item_id="9f3ddbb2-28d3-5df0-c489-f82ed94ceec8" shop_type_id="38" />
+      <!-- Hammer -->
+      <row amount="1" default_on="True" item_id="f27c1b07-0c7b-54f3-abad-2c9d338f75c9" shop_type_id="10" />
+      <row amount="1" default_on="True" item_id="f27c1b07-0c7b-54f3-abad-2c9d338f75c9" shop_type_id="31" />
+      <row amount="1" default_on="True" item_id="f27c1b07-0c7b-54f3-abad-2c9d338f75c9" shop_type_id="38" />
+      <!-- Longsword -->
+      <row amount="1" default_on="True" item_id="69202fc1-8e53-5e7e-a71a-aa13e47a1d18" shop_type_id="10" />
+      <row amount="1" default_on="True" item_id="69202fc1-8e53-5e7e-a71a-aa13e47a1d18" shop_type_id="31" />
+      <row amount="1" default_on="True" item_id="69202fc1-8e53-5e7e-a71a-aa13e47a1d18" shop_type_id="38" />
+      <!-- Longbow -->
+      <row amount="1" default_on="True" item_id="68bdf91e-4794-597b-a4c2-2ccf5d32f6a9" shop_type_id="43" />
+      <row amount="1" default_on="True" item_id="68bdf91e-4794-597b-a4c2-2ccf5d32f6a9" shop_type_id="85" />
+      <!-- Mace -->
+      <row amount="1" default_on="True" item_id="1be47d9d-d0d8-55bc-9f90-0f96f8757c82" shop_type_id="10" />
+      <row amount="1" default_on="True" item_id="1be47d9d-d0d8-55bc-9f90-0f96f8757c82" shop_type_id="31" />
+      <row amount="1" default_on="True" item_id="1be47d9d-d0d8-55bc-9f90-0f96f8757c82" shop_type_id="38" />
+      <!-- Sabre -->
+      <row amount="1" default_on="True" item_id="bdba1151-1c81-5db1-ae3a-ca5437314d86" shop_type_id="10" />
+      <row amount="1" default_on="True" item_id="bdba1151-1c81-5db1-ae3a-ca5437314d86" shop_type_id="31" />
+      <row amount="1" default_on="True" item_id="bdba1151-1c81-5db1-ae3a-ca5437314d86" shop_type_id="38" />
+      <!-- Shield -->
+      <row amount="1" default_on="True" item_id="47543273-f239-4f80-897c-46a2c026bd4e" shop_type_id="10" />
+      <row amount="1" default_on="True" item_id="47543273-f239-4f80-897c-46a2c026bd4e" shop_type_id="31" />
+      <row amount="1" default_on="True" item_id="47543273-f239-4f80-897c-46a2c026bd4e" shop_type_id="38" />
+      
+      <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
+      <!-- Caparison -->
+      <row amount="1" default_on="True" item_id="25d7f4af-af5c-44c5-9852-c7e29ba25e67" shop_type_id="63" />
+      <row amount="1" default_on="True" item_id="25d7f4af-af5c-44c5-9852-c7e29ba25e67" shop_type_id="83" />
+      <!-- Chanfron and Criniere (simple) -->
+      <row amount="1" default_on="False" item_id="50d1123e-d9ee-dc53-39b7-07bdc7075c94" shop_type_id="81" />
+      <row amount="1" default_on="False" item_id="50d1123e-d9ee-dc53-39b7-07bdc7075c94" shop_type_id="82" />
+      <row amount="1" default_on="False" item_id="50d1123e-d9ee-dc53-39b7-07bdc7075c94" shop_type_id="83" />
+      <row amount="1" default_on="False" item_id="50d1123e-d9ee-dc53-39b7-07bdc7075c94" shop_type_id="84" />
+      <!-- Noble Bridle -->
+      <row amount="1" default_on="True" item_id="b152ec51-87e2-6416-d093-eda16ee4c191" shop_type_id="63" />
+      <row amount="1" default_on="True" item_id="b152ec51-87e2-6416-d093-eda16ee4c191" shop_type_id="83" />
+      <!-- Noble Horseshoes -->
+      <row amount="3" default_on="True" item_id="6edad526-6c6b-5389-c618-164bf3690616" shop_type_id="10" />
+      <row amount="1" default_on="True" item_id="6edad526-6c6b-5389-c618-164bf3690616" shop_type_id="62" />
+      <row amount="1" default_on="True" item_id="6edad526-6c6b-5389-c618-164bf3690616" shop_type_id="63" />
+      <row amount="3" default_on="True" item_id="6edad526-6c6b-5389-c618-164bf3690616" shop_type_id="64" />
+      <row amount="3" default_on="True" item_id="6edad526-6c6b-5389-c618-164bf3690616" shop_type_id="65" />
+      <row amount="2" default_on="True" item_id="6edad526-6c6b-5389-c618-164bf3690616" shop_type_id="84" />
+      <!-- Noble Saddle 4 side bags -->
+      <row amount="1" default_on="True" item_id="853a28a0-f0ea-5a1e-5ade-340c35ea26ef" shop_type_id="63" />
+      <row amount="1" default_on="True" item_id="853a28a0-f0ea-5a1e-5ade-340c35ea26ef" shop_type_id="83" />
+    </rows>
+  </table>
+</database>

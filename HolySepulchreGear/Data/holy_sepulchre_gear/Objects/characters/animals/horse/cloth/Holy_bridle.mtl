@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Material MtlFlags="524290" Shader="Illum" GenMask="60000008121" StringGenMask="%ALLOW_SILHOUETTE_POM%BACKFACE_BRIGHTNESS%BUMP_MAP%COLORIZING_WITH_MASK%SPEC_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Emissive="0,0,0" Shininess="255" Opacity="1" AlphaTest="0.0099999998" LayerAct="1">
+  <Textures>
+    <Texture Map="Diffuse" File="objects/characters/animals/horse/cloth/Holy_horse_seat_var004_diff.tif" />
+    <Texture Map="Specular" File="objects/characters/animals/horse/cloth/sh1_p2_l4_v001_spec.tif" />
+    <Texture Map="Bumpmap" File="objects/characters/animals/horse/cloth/sh1_p2_l4_v001_ddna.tif" />
+  </Textures>
+  <PublicParams ColorizingSaturation="1" MaskBrightness3="1" MaskSaturation1="1" MaskHue3="0" MaskHue2="0" MaskBrightness2="1" BackFaceBrightnessMult="0.52399999" SSSIndex="0" MaskSaturation2="1" ColorizingHue="0" MaskSaturation3="1" MaskHue1="0" ColorizingBrightness="1" MaskBrightness1="1" IndirectColor="0.25,0.25,0.25" />
+</Material>

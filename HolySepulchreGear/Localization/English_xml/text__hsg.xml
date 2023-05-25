@@ -1,0 +1,282 @@
+<Table>
+  <Row>
+    <Cell>ui_in_Holy_axe</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Axe&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;A battleaxe of the highest quality. The blade will endure many blows and cut through even strong plate armour, and the handle will take even the most powerful blows of enraged foes. Demands respect in all circumstances.</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Axe&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;A battleaxe of the highest quality. The blade will endure many blows and cut through even strong plate armour, and the handle will take even the most powerful blows of enraged foes. Demands respect in all circumstances.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_caparison</Cell>
+    <Cell>A caparison belonging to an unknown knight of the order of the Holy Sepulcher. He had had it done to adorn his horse in the colors of his religious order</Cell>
+    <Cell>A caparison belonging to an unknown knight of the order of the Holy Sepulcher. He had had it done to adorn his horse in the colors of his religious order</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_chausses</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_cuirass</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_gambeson</Cell>
+    <Cell>Gambeson is a padded quilted jacket. It provides some protection in combat and can be combined with mail or plate armour.</Cell>
+    <Cell>The gambeson is a padded, quilted jacket. It provides some protection in combat and can be combined with mail or plate armour.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_gauntlets</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_holy_hammer</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Mace&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;The ornamented war hammer, known as a 'holy sepulchre hammer' for its ability to pierce armour. It's forged in one solid piece, so it can take a lot of rough treatment.</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Mace&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;The ornamented war hammer, known as a 'holy sepulchre hammer' for its ability to pierce armour. It's forged in one solid piece, so it can take a lot of rough treatment.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_Hauberk</Cell>
+    <Cell>Chainmail coats and vests are made from small metal rings linked together into a mesh. They differ in the size and shape of the rings as well as the linking system. The rings are usually riveted closed. Chainmail provides good protection against slashing, but can be pierced fairly easily and without a layer of padding provides almost no defence against blunt, crushing blows.</Cell>
+    <Cell>Chainmail coats and vests are made from small metal rings linked together into a mesh. They differ in the size and shape of the rings as well as the linking system. The rings are usually riveted closed. Chainmail provides good protection against slashing, but can be pierced fairly easily and without a layer of padding provides almost no defence against blunt, crushing blows.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_helmet</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_jupon</Cell>
+    <Cell>The pourpoint and jupon were quilted jackets similar to the gambeson, but lighter. Unlike the gambeson, a jupon could be worn over plate armour or a brigandine, more for ornament than protection, although every layer helps. The pourpoint looks practically identical, but is worn over normal clothing as an overcoat.</Cell>
+    <Cell>The pourpoint and jupon were quilted jackets similar to the gambeson, but lighter. Unlike the gambeson, a jupon could be worn over plate armour or a brigandine, more for ornament than protection, although every layer helps. The pourpoint looks practically identical, but is worn over normal clothing as an overcoat.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_mace</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Mace&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;A holy sepulchre mace is a symbol of military status, which is not to say that it's a mere fashion accessory - it serves just as well as a weapon and the heavy head can put serious dents in an opponent's armour... or head.</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Mace&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;A holy sepulchre mace is a symbol of military status, which is not to say that it's a mere fashion accessory - it serves just as well as a weapon and the heavy head can put serious dents in an opponent's armour... or head.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_mchausses</Cell>
+    <Cell>Padded chausses protecting knight's legs, used especially as a lower layer under the plate armour. These are moreover created so as to be really comfortable and the heavy armour will not press heavily and uncomfortably on the knight's body.</Cell>
+    <Cell>Padded chausses protecting knight's legs, used especially as a lower layer under the plate armour. These are moreover created so as to be really comfortable and the heavy armour will not press heavily and uncomfortably on the knight's body.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_necklace</Cell>
+    <Cell>Necklaces, chains and other ornaments are an integral part of 15th century men and women's fashion. Just like today, their main purpose is to flaunt the wearer's wealth and social status.</Cell>
+    <Cell>Necklaces, chains and other ornaments are an integral part of 15th century men and women's fashion. Just like today, their main purpose is to flaunt the wearer's wealth and social status.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_mcoif</Cell>
+    <Cell>A mail coif is a hood covering the head, neck and shoulders with chainmail. In combat it provides very good protection of vulnerable spots.</Cell>
+    <Cell>A mail coif is a hood covering the head, neck and shoulders with chainmail. In combat it provides very good protection of vulnerable spots.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_pauldrons</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_pcoif</Cell>
+    <Cell>Padded coif is usually worn as helmet liner but can be worn solo as a basic head protection in combat.</Cell>
+    <Cell>The padded coif is usually worn as a helmet liner but can be worn alone as basic head protection in combat.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_ring</Cell>
+    <Cell>An expensive ornament of noble fingers.</Cell>
+    <Cell>An expensive ornament of noble fingers.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_saber</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Sabre&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Unlike other swords, which are designed to be as well-balanced as possible, the sabre carries the greatest weight at its tip. This makes it a formidable weapon, but much harder to handle. Its curved shape also makes it less suited to stabbing.</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Sabre&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Unlike other swords, which are designed to be as well-balanced as possible, the sabre carries the greatest weight at its tip. This makes it a formidable weapon, but much harder to handle. Its curved shape also makes it less suited to stabbing.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_shield</Cell>
+    <Cell>A shield of very good quality having belonged to an unknown knight of the order of the Holy Sepulcher. It is extraordinarily well maintained, its former owner had to like it</Cell>
+    <Cell>A shield of very good quality having belonged to an unknown knight of the order of the Holy Sepulcher. It is extraordinarily well maintained, its former owner had to like it</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_spurs</Cell>
+    <Cell>Holy sepulchre spurs not only significantly improve horse control, but also increase charisma.</Cell>
+    <Cell>Holy sepulchre spurs not only significantly improve horse control, but also increase charisma.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_sword</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Longsword&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Not every knight is born valiant and not every noble is born rich. But both must flaunt their social standing and sometimes their fighting skills too. This is the best longsword a nobleman who's fallen on hard times can afford. A master swordsman can do great things with it, but in inexperienced hands it will quickly become dull, because the material of the blade is not the best.</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Longsword&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Not every knight is born valiant and not every noble is born rich. But both must flaunt their social standing and sometimes their fighting skills too. This is the best longsword a nobleman who's fallen on hard times can afford. A master swordsman can do great things with it, but in inexperienced hands it will quickly become dull, because the material of the blade is not the best.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_axe</Cell>
+    <Cell>Axe (Holy Sepulchre)</Cell>
+    <Cell>Axe (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_bascinet</Cell>
+    <Cell>Bascinet (Holy Sepulchre)</Cell>
+    <Cell>Bascinet (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_Bridle</Cell>
+    <Cell>Bridle (Holy Sepulchre)</Cell>
+    <Cell>Bridle (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_caparison</Cell>
+    <Cell>Caparison (Holy Sepulchre)</Cell>
+    <Cell>Caparison (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_chanfron</Cell>
+    <Cell>Plate chanfron (Holy Sepulchre)</Cell>
+    <Cell>Plate chanfron (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_chausses</Cell>
+    <Cell>Chausses (Holy Sepulchre)</Cell>
+    <Cell>Chausses (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_chausses_s</Cell>
+    <Cell>Chausses (Holy Sepulchre, silver)</Cell>
+    <Cell>Chausses (Holy Sepulchre, silver)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_cuirass</Cell>
+    <Cell>Cuirass (Holy Sepulchre)</Cell>
+    <Cell>Cuirass (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_cuirass_s</Cell>
+    <Cell>Cuirass (Holy Sepulchre, silver)</Cell>
+    <Cell>Cuirass (Holy Sepulchre, silver)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_gambeson</Cell>
+    <Cell>Gambeson (Holy Sepulchre)</Cell>
+    <Cell>Gambeson (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_gauntlets</Cell>
+    <Cell>Gauntlets (Holy Sepulchre)</Cell>
+    <Cell>Gauntlets (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_gauntlets_s</Cell>
+    <Cell>Gauntlets (Holy Sepulchre, silver)</Cell>
+    <Cell>Gauntlets (Holy Sepulchre, silver)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_hammer</Cell>
+    <Cell>Warhammer (Holy Sepulchre)</Cell>
+    <Cell>Warhammer (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_hauberk</Cell>
+    <Cell>Hauberk (heavy, Holy Sepulchre)</Cell>
+    <Cell>Hauberk (heavy, Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_horse_shoe</Cell>
+    <Cell>Horseshoes (Holy Sepulchre)</Cell>
+    <Cell>Horseshoes (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_hounskull</Cell>
+    <Cell>Hounskull (Holy Sepulchre)</Cell>
+    <Cell>Hounskull (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_jupon</Cell>
+    <Cell>Jupon (Holy Sepulchre)</Cell>
+    <Cell>Jupon (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_longbow</Cell>
+    <Cell>Longbow (Holy Sepulchre)</Cell>
+    <Cell>Longbow (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_mace</Cell>
+    <Cell>Mace (Holy Sepulchre)</Cell>
+    <Cell>Mace (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_mchausses</Cell>
+    <Cell>Mail chausses (Holy Sepulchre)</Cell>
+    <Cell>Mail chausses (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_mcoif</Cell>
+    <Cell>Mail Coif (Holy Sepulchre)</Cell>
+    <Cell>Mail Coif (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_mcollar</Cell>
+    <Cell>Mail collar (Holy Sepulchre)</Cell>
+    <Cell>Mail collar (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_necklace</Cell>
+    <Cell>Golden chain (Holy Sepulchre)</Cell>
+    <Cell>Golden chain (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_pants</Cell>
+    <Cell>Tight hose (Holy Sepulchre)</Cell>
+    <Cell>Tight hose (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_pauldrons</Cell>
+    <Cell>Pauldrons (Holy Sepulchre)</Cell>
+    <Cell>Pauldrons (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_pauldrons_s</Cell>
+    <Cell>Pauldrons (Holy Sepulchre, silver)</Cell>
+    <Cell>Pauldrons (Holy Sepulchre, silver)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_pcoif</Cell>
+    <Cell>Coif (padded, Holy Sepulchre)</Cell>
+    <Cell>Coif (padded, Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_pcoif_002</Cell>
+    <Cell>Coif (Holy Sepulchre)</Cell>
+    <Cell>Coif (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_ring</Cell>
+    <Cell>Ring (Holy Sepulchre)</Cell>
+    <Cell>Ring (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_saber</Cell>
+    <Cell>Sabre (Holy Sepulchre)</Cell>
+    <Cell>Sabre (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_saddle_004d</Cell>
+    <Cell>Saddle (Holy Sepulchre, 4 sb)</Cell>
+    <Cell>Saddle (Holy Sepulchre, 4 sb)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_scarf</Cell>
+    <Cell>Scarf (Holy Sepulchre)</Cell>
+    <Cell>Scarf (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_shield</Cell>
+    <Cell>Shield (Holy Sepulchre)</Cell>
+    <Cell>Shield (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_spurs</Cell>
+    <Cell>Spurs (Holy Sepulchre)</Cell>
+    <Cell>Spurs (Holy Sepulchre)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_sword</Cell>
+    <Cell>Longsword (Holy Sepulchre)</Cell>
+    <Cell>Longsword (Holy Sepulchre)</Cell>
+  </Row>
+</Table>

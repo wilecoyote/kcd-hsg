@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="armor2clothing_preset" version="1">
+    <rows>
+      <!-- HELMETS -->
+      <!-- Hounskull -->
+      <row armor_id="d2c96624-c8a8-4d15-af8c-de461a69bd83" clothing_preset_id="447e01e0-7f9d-97da-a905-e1c3a4bd4e8e" />
+      <!-- Bascinet (common, open) -->
+      <row armor_id="e3da7735-d9b9-5e26-b09d-ef572b7ace94" clothing_preset_id="43ed8cb9-82db-a7c6-267d-d9c9d2519a82" />
+      <row armor_id="e3da7735-d9b9-5e26-b09d-ef572b7ace94" clothing_preset_id="4a6f2939-afc4-8c81-0c39-95503442bbb4" />
+      <row armor_id="e3da7735-d9b9-5e26-b09d-ef572b7ace94" clothing_preset_id="4ec5fcbb-b847-0d7c-1632-52a814ea589e" />
+      
+      <!-- GOLDEN TRIMMED ARMOR -->
+      <!-- Cuirass -->
+      <row armor_id="3ac36b1d-2d08-42fb-b07b-0dfca5b646d4" clothing_preset_id="44696f75-6b18-1fc9-74d4-1d7ee7d28680" />
+      <row armor_id="3ac36b1d-2d08-42fb-b07b-0dfca5b646d4" clothing_preset_id="45d97a3b-5fed-a681-35fe-1b768fd776b4" />
+      <!-- Pauldrons -->
+      <row armor_id="3b3657e0-aee1-4a89-b1b9-ae384b5c5e16" clothing_preset_id="44696f75-6b18-1fc9-74d4-1d7ee7d28680" />
+      
+      <!-- SILVER ARMOR -->
+      <!-- Cuirass -->
+      <row armor_id="4bd47c2e-3e19-530c-c18c-1e0db6c757e5" clothing_preset_id="44696f75-6b18-1fc9-74d4-1d7ee7d28680" />
+      <row armor_id="4bd47c2e-3e19-530c-c18c-1e0db6c757e5" clothing_preset_id="45d97a3b-5fed-a681-35fe-1b768fd776b4" />
+      <!-- Pauldrons -->
+      <row armor_id="4c4768f1-bff2-5b8a-c2ca-bf495c6d6f27" clothing_preset_id="44696f75-6b18-1fc9-74d4-1d7ee7d28680" />
+      
+      <!-- OTHER -->
+      <!-- Gambeson (Threadbare Dark) -->
+      <row armor_id="576afe01-8233-688d-f00e-6f14b0bd88c0" clothing_preset_id="42eebb39-bc0d-940b-7235-dc43fc21889e" />
+      <row armor_id="576afe01-8233-688d-f00e-6f14b0bd88c0" clothing_preset_id="43ba01f6-0142-94e0-cd75-5cc0f56afb9f" />
+      <row armor_id="576afe01-8233-688d-f00e-6f14b0bd88c0" clothing_preset_id="4ede625c-87df-5803-c690-95940b9740a3" />
+      <!-- Decorated Mail Coif -->
+      <row armor_id="50cd9c27-7f69-b05f-9ca6-6aa74eb6f0a7" clothing_preset_id="499bac30-15f5-6cbf-78f4-56aa777f8b8c" />
+      <!-- Dark Combat Jupon -->
+      <row armor_id="48dafad3-3606-b7e8-d1dc-ebc1de6b99bd" clothing_preset_id="455b92a3-347b-f5ec-fbfb-0318ceba9b84" />
+      <!-- Mail Chausses -->
+      <row armor_id="55246a62-d02d-030e-2601-101fb333b695" clothing_preset_id="45d97a3b-5fed-a681-35fe-1b768fd776b4" />
+      <row armor_id="55246a62-d02d-030e-2601-101fb333b695" clothing_preset_id="47941c58-e0d6-a137-124a-ab4f82ff0983" />
+      <row armor_id="55246a62-d02d-030e-2601-101fb333b695" clothing_preset_id="4c65994e-0259-259c-6c03-fd29c97ffca6" />
+      <row armor_id="55246a62-d02d-030e-2601-101fb333b695" clothing_preset_id="4feb4fdc-edc5-85e5-bca1-cb63715ac886" />
+      <!-- Mail Collar -->
+      <row armor_id="b2a885bc-03ab-48eb-be49-a267e88cd260" clothing_preset_id="46b39977-bd86-2c70-1b6d-83f19aa4db8c" />
+      <!-- Padded Coif -->
+      <row armor_id="5edc7995-1cf1-db2c-43f7-f31ddcd69d90" clothing_preset_id="47941c58-e0d6-a137-124a-ab4f82ff0983" />
+      <row armor_id="5edc7995-1cf1-db2c-43f7-f31ddcd69d90" clothing_preset_id="4c65994e-0259-259c-6c03-fd29c97ffca6" />
+      <!-- Yellow Scarf -->
+      <row armor_id="5d524610-04ed-9a21-1f57-20a48f57e9a4" clothing_preset_id="45d3333d-ba1e-5e29-7398-eccb86d99695" />
+    </rows>
+  </table>
+</database>

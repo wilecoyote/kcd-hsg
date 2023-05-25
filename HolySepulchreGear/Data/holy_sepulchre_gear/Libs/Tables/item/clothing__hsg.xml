@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="clothing" version="1">
+    <rows>
+      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
+      <!-- HELMETS -->
+      <!-- Hounskull -->
+      <row armor_archetype_id="43" clothing_id="7cac159d-42f7-4302-9f5c-78b2b451a4fc" clothing_name="Holy_hounskull" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_hounskull" model="s1_p1_l3_v006" morph_target="" race_id="0" timestamp="29/10/2015 20:23" />
+      <!-- Bascinet (common, open) -->
+      <row armor_archetype_id="43" clothing_id="8dbd26ae-5308-5413-a06d-89d3c562b50d" clothing_name="Holy_bascinet" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_bascinet" model="s1_p1_l3_v004" morph_target="" race_id="0" timestamp="29/10/2015 20:23" />
+      <!-- GOLD -->
+      <row armor_archetype_id="10" clothing_id="c170e9e9-6c2d-4359-9b12-7ad842a1577c" clothing_name="Holy_cuirass" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_cuirass" model="s1_p2_l3_v015" morph_target="" race_id="0" timestamp="01/06/2017 13:57" />
+      <row armor_archetype_id="58" clothing_id="604a11e5-baf8-42e3-a460-9efd99b10657" clothing_name="Holy_chausses" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_chausses" model="s1_p3_l3_v013" morph_target="" race_id="0" timestamp="01/06/2017 16:32" />
+      <row armor_archetype_id="29" clothing_id="fb66af7f-9135-4a75-9efc-1a1080852d55" clothing_name="Holy_pauldrons" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_pauldrons" model="s1_p2_l3_v032b" morph_target="" race_id="0" timestamp="02/12/2016 16:55" />
+      <row armor_archetype_id="45" clothing_id="5d7ef4fb-a89b-453b-bfd9-6b55adb5ea2c" clothing_name="Holy_gauntlets" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_gauntlets" model="s1_p2_l3_v006c" morph_target="" race_id="0" timestamp="31/05/2017 17:18" />
+      <!-- SILVER -->
+      <row armor_archetype_id="10" clothing_id="d281fafa-7d3e-546a-ac23-8be953b2688d" clothing_name="Holy_cuirass_s" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_cuirass_s" model="s1_p2_l3_v015" morph_target="" race_id="0" timestamp="01/06/2017 13:57" />
+      <row armor_archetype_id="58" clothing_id="715b22f6-cb09-53f4-b571-af0eaac21768" clothing_name="Holy_chausses_s" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_Chausses_s" model="s1_p3_l3_v013" morph_target="" race_id="0" timestamp="01/06/2017 16:32" />
+      <row armor_archetype_id="29" clothing_id="0c77b080-a246-5b86-af0d-2b2191963e66" clothing_name="Holy_pauldrons_s" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_pauldrons_s" model="s1_p2_l3_v032b" morph_target="" race_id="0" timestamp="02/12/2016 16:55" />
+      <row armor_archetype_id="45" clothing_id="6e8f050c-b9ac-564c-c0ea-7c66bec6fb3d" clothing_name="Holy_gauntlets_s" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_gauntlets_s" model="s1_p2_l3_v006c" morph_target="" race_id="0" timestamp="31/05/2017 17:18" />
+      <!-- OTHER -->
+      <!-- Gambeson (Threadbare Dark) -->
+      <row armor_archetype_id="24" clothing_id="9b94a7aa-60a6-5eff-a8cb-73c4b986fa1d" clothing_name="Holy_gambeson" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_gambeson" model="s1_p2_l2_v0" morph_target="#V_001" race_id="0" timestamp="02/04/2013 18:47" />
+      <!-- Hauberk -->
+      <row armor_archetype_id="16" clothing_id="5aad3c70-6689-f4da-2cd0-0c96fe65e290" clothing_name="Holy_hauberk" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="s1_p2_l2_v0_tx020_d3_s1" model="s1_p2_l2_v0" morph_target="#V_020" race_id="0" timestamp="01/06/2017 14:55" />
+      <!-- Hose (Tight Black) -->
+      <row armor_archetype_id="47" clothing_id="6a5460ef-6fe6-72a0-204d-606059f63ab7" clothing_name="Holy_pants" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_pants" model="s1_p3_l1_v0" morph_target="#V_007" race_id="0" timestamp="01/06/2017 16:48" />
+      <!-- Jupon -->
+      <row armor_archetype_id="67" clothing_id="5af1e125-aa72-900b-c1dd-d5b9dd2b2aab" clothing_name="Holy_jupon" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_jupon" model="s1_p2_l4_v4" morph_target="#V_004" race_id="0" timestamp="12/12/2016 18:39" />
+      <!-- Mail Chausses -->
+      <row armor_archetype_id="49" clothing_id="5a4622f3-5b4a-edec-9746-185ccbefbbac" clothing_name="Holy_mchausses" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="s1_p3_l2_v1" model="s1_p3_l2_v1" morph_target="" race_id="0" timestamp="01/06/2017 18:59" />
+      <!-- Mail Coif -->
+      <row armor_archetype_id="38" clothing_id="57f2de07-e0ab-c5dd-5eb7-104ebc528590" clothing_name="Holy_mcoif" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="s1_p1_l2_v004" model="s1_p1_l2_v004" morph_target="" race_id="0" timestamp="11/11/2016 11:54" />
+      <!-- Mail Collar -->
+      <row armor_archetype_id="38" clothing_id="7b68be6d-9ea0-47f9-8fd5-99bdb510f27a" clothing_name="Holy_mcollar" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="s1_p1_l2_v007" model="s1_p1_l2_v007" morph_target="" race_id="0" timestamp="15/11/2016 15:45" />
+      <!-- Neck Chain -->
+      <row armor_archetype_id="82" clothing_id="940ea434-55d9-6c70-bb2d-c4eb5015152f" clothing_name="Holy_necklace" computer_name="WCOYOTE-DT" gender_id="3" influence_type="1" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="" model="" morph_target="" race_id="0" timestamp="pred vanocema" />
+      <!-- Padded Coif -->
+      <row armor_archetype_id="36" clothing_id="511cd92a-8fc8-79e7-8283-679e8f5621b3" clothing_name="Holy_pcoif" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_pcoif" model="s1_p1_l1_v003" morph_target="" race_id="0" timestamp="11/11/2016 11:16" />
+      <!-- Padded Coif II -->
+      <row armor_archetype_id="36" clothing_id="54577cac-0b34-52ad-8b41-f596684eed94" clothing_name="Holy_pcoif_002" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_pcoif_002" model="s1_p1_l1_v0" morph_target="#V_s1_head_v021" race_id="0" timestamp="01/03/2016 17:40" />
+      <!-- Ring -->
+      <row armor_archetype_id="80" clothing_id="a5f42c7f-710c-5aec-ba3b-1d67e287831a" clothing_name="Holy_ring" computer_name="WCOYOTE-DT" gender_id="3" influence_type="1" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="" model="" morph_target="" race_id="0" timestamp="pred vanocema" />
+      <!-- Scarf -->
+      <row armor_archetype_id="79" clothing_id="53b441d4-f714-97dc-c75b-9552b3d32492" clothing_name="Holy_scarf" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="s1_p2_l4_tx009" model="s1_p2_l4_v009" morph_target="" race_id="0" timestamp="27/01/2016 09:49" />
+      <!-- Spurs -->
+      <row armor_archetype_id="81" clothing_id="1f435fdb-1db1-55ce-ca28-7d454c44f3e6" clothing_name="Holy_spurs" computer_name="WCOYOTE-DT" gender_id="1" influence_type="1" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="s1_p4_l2_v001" model="s1_p4_l2_v001" morph_target="" race_id="0" timestamp="23/06/2017 14:44" />
+      
+      <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
+      <!-- Caparison -->
+      <row armor_archetype_id="74" clothing_id="8b7e0468-3de3-4373-b966-001ca197ac0d" clothing_name="Holy_caparison" computer_name="WCOYOTE-DT" gender_id="0" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_caparison" model="sh1_p2_l1_v0" morph_target="" race_id="1" timestamp="29/06/2017 11:54" />
+      <!-- Chanfron and Criniere (simple) -->
+      <row armor_archetype_id="76" clothing_id="54447de0-964e-8d83-81be-4746d88108b5" clothing_name="Holy_horse_armor_head" computer_name="WCOYOTE-DT" gender_id="0" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_chanfron" model="sh1_p1_l3_v004" morph_target="" race_id="1" timestamp="10/05/2018 12:56" />
+      <!-- Noble Bridle-->
+      <row armor_archetype_id="77" clothing_id="64a0ae31-7861-d166-91b6-db16b326a5d2" clothing_name="Holy_bridle" computer_name="WCOYOTE-DT" gender_id="0" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_bridle" model="sh1_p1_l2_v001" morph_target="" race_id="0" timestamp="09/03/2015 11:18" />
+      <!-- Noble Horseshoes -->
+      <row armor_archetype_id="87" clothing_id="db9a52ae-35ee-59a4-9543-01661d1ccdc6" clothing_name="Holy_horse_shoe" computer_name="WCOYOTE-DT" gender_id="0" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="" model="" morph_target="" race_id="1" timestamp="" />
+      <!-- Noble Saddle 4 side bags -->
+      <row armor_archetype_id="75" clothing_id="85938fb3-0a5e-d31e-5e52-ceb94e8da7dd" clothing_name="Holy_saddle_004" computer_name="WCOYOTE-DT" gender_id="0" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_horse_seat_var004" model="sh1_p2_l4_v001" morph_target="" race_id="1" timestamp="23/06/2017 14:26" />
+    </rows>
+  </table>
+</database>

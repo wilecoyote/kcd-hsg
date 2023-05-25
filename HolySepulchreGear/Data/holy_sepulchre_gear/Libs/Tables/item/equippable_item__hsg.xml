@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="equippable_item" version="1">
+    <rows>
+      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
+      <!-- HELMETS -->
+      <!-- Hounskull -->
+      <row charisma="17" conspicuousness="0.3" item_id="d2c96624-c8a8-4d15-af8c-de461a69bd83" rpg_buff_weight="0" social_class_id="33" visibility="0.504" wealth_level="2" />
+      <!-- Bascinet (common, open) -->
+      <row charisma="6" conspicuousness="0.04" item_id="e3da7735-d9b9-5e26-b09d-ef572b7ace94" rpg_buff_weight="0" social_class_id="33" visibility="0.32" wealth_level="2" />
+      
+      <!-- GOLD -->
+      <!-- Cuirass -->
+      <row charisma="20" conspicuousness="0.06" item_id="3ac36b1d-2d08-42fb-b07b-0dfca5b646d4" rpg_buff_weight="0" social_class_id="33" visibility="0.11" wealth_level="2" />
+      <!-- Chausses -->
+      <row charisma="20" conspicuousness="0.30" item_id="760d04b2-2e25-46e3-b95f-e9e5153bf25d" rpg_buff_weight="0" social_class_id="33" visibility="0.3" wealth_level="2" />
+      <!-- Pauldrons -->
+      <row charisma="20" conspicuousness="0.28" item_id="3b3657e0-aee1-4a89-b1b9-ae384b5c5e16" rpg_buff_weight="0" social_class_id="33" visibility="0.09" wealth_level="2" />
+      <!-- Gauntlets -->
+      <row charisma="20" conspicuousness="0.16" item_id="20463222-25d6-47d7-9f9f-ff9262867ea0" rpg_buff_weight="0" social_class_id="1" visibility="0.36" wealth_level="2" />
+      
+      <!-- SILVER -->
+      <!-- Cuirass -->
+      <row charisma="20" conspicuousness="0.06" item_id="4bd47c2e-3e19-530c-c18c-1e0db6c757e5" rpg_buff_weight="0" social_class_id="33" visibility="0.11" wealth_level="2" />
+      <!-- Chausses -->
+      <row charisma="20" conspicuousness="0.30" item_id="871e15c3-3f36-57f4-ca60-faf6264c036e" rpg_buff_weight="0" social_class_id="33" visibility="0.3" wealth_level="2" />
+      <!-- Pauldrons -->
+      <row charisma="20" conspicuousness="0.28" item_id="4c4768f1-bff2-5b8a-c2ca-bf495c6d6f27" rpg_buff_weight="0" social_class_id="33" visibility="0.09" wealth_level="2" />
+      <!-- Gauntlets -->
+      <row charisma="20" conspicuousness="0.16" item_id="31574333-36e7-58e8-a0a0-00a373978fb1" rpg_buff_weight="0" social_class_id="1" visibility="0.36" wealth_level="2" />
+      
+      <!-- OTHER -->
+      <!-- Gambeson (Threadbare Dark) -->
+      <row charisma="19" conspicuousness="-0.74" item_id="576afe01-8233-688d-f00e-6f14b0bd88c0" rpg_buff_weight="0" social_class_id="33" visibility="-0.84" wealth_level="2" />
+      <!-- Hauberk -->
+      <row charisma="18" conspicuousness="0.24" item_id="56b4a255-14ff-78c3-f8ad-975cfe0a4297" rpg_buff_weight="0" social_class_id="33" visibility="0.32" wealth_level="2" />
+      <!-- Hose (Tight Black) -->
+      <row charisma="19" conspicuousness="-0.89" item_id="695332e1-daaa-ca6d-9e87-07d3d0cd69ce" rpg_buff_weight="0" social_class_id="3" visibility="-0.90" wealth_level="2" />
+      <!-- Jupon -->
+      <row charisma="18" conspicuousness="0.19" item_id="59e99fab-83c9-c716-10f9-cf7d73f6e69d" rpg_buff_weight="0" social_class_id="0" visibility="0.24" wealth_level="2" />
+      <!-- Mail Chausses -->
+      <row charisma="20" conspicuousness="0.12" item_id="55246a62-d02d-030e-2601-101fb333b695" rpg_buff_weight="0" social_class_id="33" visibility="0.34" wealth_level="2" />
+      <!-- Mail Coif -->
+      <row charisma="13" conspicuousness="0.28" item_id="50cd9c27-7f69-b05f-9ca6-6aa74eb6f0a7" rpg_buff_weight="0" social_class_id="33" visibility="0.36" wealth_level="2" />
+      <!-- Mail Collar -->
+      <row charisma="9" conspicuousness="0.11" item_id="b2a885bc-03ab-48eb-be49-a267e88cd260" rpg_buff_weight="0" social_class_id="33" visibility="0.2" wealth_level="2" />
+      <!-- Neck Chain -->
+      <row charisma="20" conspicuousness="-0.3" item_id="1c0843dc-db2a-501c-b670-d94b8a917e90" rpg_buff_weight="0" social_class_id="1" visibility="-0.1" wealth_level="2" />
+      <!-- Padded Coif -->
+      <row charisma="13" conspicuousness="-0.5" item_id="5edc7995-1cf1-db2c-43f7-f31ddcd69d90" rpg_buff_weight="0" social_class_id="1" visibility="-0.46" wealth_level="2" />
+      <!-- Padded Coif II -->
+      <row charisma="11" conspicuousness="-0.22" item_id="5fbdb430-eb4f-d82b-1a45-1720deb35199" rpg_buff_weight="0" social_class_id="1" visibility="0.044" wealth_level="2" />
+      <!-- Ring -->
+      <row charisma="20" conspicuousness="-0.3" item_id="99f3d0db-2098-5107-a7a2-5517787e813d" rpg_buff_weight="0" social_class_id="1" visibility="-0.1" wealth_level="2" />
+      <!-- Scarf (Black) -->
+      <row charisma="7" conspicuousness="-0.63" item_id="5d524610-04ed-9a21-1f57-20a48f57e9a4" rpg_buff_weight="0" social_class_id="3" visibility="-0.64" wealth_level="2" />
+      <!-- Spurs -->
+      <row charisma="20" conspicuousness="-0.6" item_id="b0703a57-df65-5f49-ac3c-6bca6e6d5888" rpg_buff_weight="1.2" social_class_id="14" visibility="-0.4" wealth_level="2" />
+      
+      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: WEAPONS -->
+      <!-- Axe -->
+      <row charisma="19" conspicuousness="0" item_id="9f3ddbb2-28d3-5df0-c489-f82ed94ceec8" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="2" />
+      <!-- Hammer -->
+      <row charisma="19" conspicuousness="0" item_id="f27c1b07-0c7b-54f3-abad-2c9d338f75c9" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="2" />
+      <!-- Longbow -->
+      <row charisma="20" conspicuousness="0.36" item_id="68bdf91e-4794-597b-a4c2-2ccf5d32f6a9" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="2" />
+      <!-- Longsword -->
+      <row charisma="20" conspicuousness="1" item_id="69202fc1-8e53-5e7e-a71a-aa13e47a1d18" rpg_buff_weight="1" social_class_id="0" visibility="1" wealth_level="2" />
+      <!-- Mace -->
+      <row charisma="19" conspicuousness="0" item_id="1be47d9d-d0d8-55bc-9f90-0f96f8757c82" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="2" />
+      <!-- Sabre -->
+      <row charisma="12" conspicuousness="0" item_id="bdba1151-1c81-5db1-ae3a-ca5437314d86" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="2" />
+      <!-- Shield -->
+      <row charisma="20" conspicuousness="0" item_id="47543273-f239-4f80-897c-46a2c026bd4e" rpg_buff_weight="1.66666" social_class_id="0" visibility="0" wealth_level="2" />
+      
+      <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
+      <!-- Caparison -->
+      <row charisma="0" conspicuousness="0.18" item_id="25d7f4af-af5c-44c5-9852-c7e29ba25e67" rpg_buff_weight="0" social_class_id="1" visibility="0.18" wealth_level="2" />
+      <!-- Chanfron and Criniere (simple) -->
+      <row charisma="0" conspicuousness="0.18" item_id="50d1123e-d9ee-dc53-39b7-07bdc7075c94" rpg_buff_weight="0" social_class_id="0" visibility="0.18" wealth_level="2" />
+      <!-- Noble Bridle -->
+      <row charisma="0" conspicuousness="0.18" item_id="b152ec51-87e2-6416-d093-eda16ee4c191" rpg_buff_weight="1.2" social_class_id="0" visibility="0.18" wealth_level="2" />
+      <!-- Noble Horseshoes -->
+      <row charisma="0" conspicuousness="0.18" item_id="6edad526-6c6b-5389-c618-164bf3690616" rpg_buff_weight="1.044" social_class_id="1" visibility="0.18" wealth_level="2" />
+      <!-- Noble Saddle 4 side bags -->
+      <row charisma="0" conspicuousness="0.18" item_id="853a28a0-f0ea-5a1e-5ade-340c35ea26ef" rpg_buff_weight="1.5" social_class_id="1" visibility="0.18" wealth_level="2" />
+    </rows>
+  </table>
+</database>

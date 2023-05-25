@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Material MtlFlags="524544" vertModifType="0">
+  <SubMaterials>
+    <Material MtlFlags="524418" Shader="Illum" GenMask="4030080100000" StringGenMask="%DIRT_SYSTEM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%THREE_POINT_LIGHTING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.72305512,0.70837581,0.57112485" Opacity="1" Shininess="255" AlphaTest="0.43000001" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/characters/humans/cloth/s1_p2_l3_v014_tx001_diff.tif" />
+        <Texture Map="Bumpmap" File="objects/characters/humans/cloth/Holy_cuirass_ddna.tif" />
+        <Texture Map="Specular" File="objects/characters/humans/cloth/Holy_cuirass_s_spec.tif" />
+        <Texture Map="Environment" File="objects/characters/humans/cloth/Holy_cuirass_s_scratches_spec.tif" />
+        <Texture Map="Decal" File="objects/characters/humans/cloth/s1_p2_l3_v001_tx001_dirtblood_mask.tif" />
+        <Texture Map="Custom" File="objects/characters/humans/cloth/s1_p2_l3_v014_tx001_scratches_diff.tif" />
+        <Texture Map="[1] Custom" File="objects/characters/humans/cloth/Holy_cuirass_s_scratches_ddna.tif" />
+      </Textures>
+      <PublicParams DirtIntensity="0" DirtColor="0.11193243,0.11443538,0.090841718" ZoneBlood6="0,0,0" ZoneBlood2="0,0,0" ScratchIntensity="0" EmittanceMapGamma="1" BloodGloss="0" BloodSpec="0" BloodColor="1,1,1" ZoneBlood3="0,0,0" DirtGloss="0" ZoneBlood7="0,0,0" ScratchSeed="0" SSSIndex="0" ZoneBlood9="0,0,0" ZoneBlood5="0,0,0" ZoneBlood1="0,0,0" ZoneBlood8="0,0,0" ZoneBlood4="0,0,0" DirtSpec="-0.71600002" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material Name="SubMtl2" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0,0,0" Opacity="1" Shininess="10" CloakAmount="0" vertModifType="0" LayerAct="1">
+      <Textures />
+    </Material>
+  </SubMaterials>
+  <PublicParams DirtIntensity="0" DirtColor="0.11193243,0.11443538,0.090841718" ZoneBlood6="0,0,0" ZoneBlood2="0,0,0" ScratchIntensity="0" EmittanceMapGamma="1" BloodGloss="0" BloodSpec="0" BloodColor="1,1,1" ZoneBlood3="0,0,0" DirtGloss="0" ZoneBlood7="0,0,0" ScratchSeed="0" SSSIndex="0" ZoneBlood9="0,0,0" ZoneBlood5="0,0,0" ZoneBlood1="0,0,0" ZoneBlood8="0,0,0" ZoneBlood4="0,0,0" DirtSpec="-0.71600002" IndirectColor="0.25,0.25,0.25" />
+</Material>

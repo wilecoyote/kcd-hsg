@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kcd_mod>
+  <info>
+    <name>Holy Sepulchre Gear</name>
+    <description>Adds an exquisite and expensive new Armor in two variants (gold and silver), a shield and a caparison for your beloved horse to the game. Every item is buy able.</description>
+    <author>RedHazmat</author>
+    <version>1.1.8</version>
+    <created_on>2023/05/14</created_on>
+    <modid>hsg</modid>
+  </info>
+  <supports>
+    <kcd_version>1.9.5</kcd_version>
+    <kcd_version>1.9.6</kcd_version>
+    <kcd_version>1.9.7</kcd_version>
+  </supports>
+</kcd_mod>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Material MtlFlags="524544" vertModifType="0">
+  <SubMaterials>
+    <Material Name="proxy" MtlFlags="524416" Shader="Illum" GenMask="20000000000" StringGenMask="%SUBSURFACE_SCATTERING" SurfaceType="mat_leather" MatTemplate="" Diffuse="1,1,1" Specular="0,0,0" Opacity="1" Shininess="10" CloakAmount="0" CustomSortPriority="8" vertModifType="0" LayerAct="1">
+      <Textures />
+      <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material Name="saddle" MtlFlags="524418" Shader="Illum" GenMask="30080008000" StringGenMask="%DETAIL_ATLAS%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" AlphaTest="0.0099999998" CustomSortPriority="7" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/characters/animals/horse/Holy_horse_seat_var004_diff.tif" />
+        <Texture Map="Bumpmap" File="objects/characters/animals/horse/horse_seat_var004_ddna.tif" />
+        <Texture Map="Specular" File="objects/characters/animals/horse/horse_seat_spec.tif" />
+        <Texture Map="Detail" File="objects/characters/animals/horse/horse_seat_v002_dtmask.tif">
+          <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="9" TileV="11" />
+        </Texture>
+      </Textures>
+      <PublicParams EmittanceMapGamma="1" DetailDiffuseScale="0.5" SSSIndex="0" DetailBumpScale="2.0699999" DetailGlossScale="0.5" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material Name="bag01" MtlFlags="524416" Shader="Illum" GenMask="30080000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" CloakAmount="0" CustomSortPriority="6" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/characters/animals/horse/attachment/saddle_bag_01_diff.tif" />
+        <Texture Map="Bumpmap" File="objects/characters/animals/horse/attachment/saddle_bag_01_black_ddna.tif" />
+        <Texture Map="Specular" File="objects/characters/animals/horse/attachment/saddle_bag_01_black_spec.tif" />
+        <Texture Map="Detail" File="objects/characters/animals/horse/attachment/saddle_bag_01_dtmask.tif">
+          <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="5" TileV="6" />
+        </Texture>
+      </Textures>
+      <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material Name="bag02" MtlFlags="524416" Shader="Illum" GenMask="30080000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" CloakAmount="0" CustomSortPriority="5" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/characters/animals/horse/attachment/saddle_bag_02_black_diff.tif" />
+        <Texture Map="Bumpmap" File="objects/characters/animals/horse/attachment/saddle_bag_02_black_ddna.tif" />
+        <Texture Map="Specular" File="objects/characters/animals/horse/attachment/saddle_bag_02_black_spec.tif" />
+      </Textures>
+      <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material Name="bag03" MtlFlags="524416" Shader="Illum" GenMask="30080000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.76815116,0.76815116,0.76815116" Opacity="1" Shininess="255" CloakAmount="0" CustomSortPriority="4" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/characters/animals/horse/attachment/saddle_bag_03_diff.tif" />
+        <Texture Map="Bumpmap" File="objects/characters/animals/horse/attachment/saddle_bag_03_ddna.tif" />
+        <Texture Map="Specular" File="objects/characters/animals/horse/attachment/saddle_bag_03_spec.tif" />
+      </Textures>
+      <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material Name="flask" MtlFlags="524416" Shader="Illum" GenMask="30080000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.72305512,0.72305512,0.72305512" Opacity="1" Shininess="212" CloakAmount="0" CustomSortPriority="3" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/characters/animals/horse/attachment/saddle_flask_var02_diff.tif" />
+        <Texture Map="Bumpmap" File="objects/characters/animals/horse/attachment/saddle_flask_black_ddna.tif" />
+        <Texture Map="Specular" File="objects/characters/animals/horse/attachment/saddle_flask_black_spec.tif" />
+      </Textures>
+      <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material Name="sack" MtlFlags="524416" Shader="Illum" GenMask="20080008000" StringGenMask="%DETAIL_ATLAS%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.038204372,0.038204372,0.038204372" Opacity="1" Shininess="255" AlphaTest="0.050000001" CloakAmount="0" CustomSortPriority="2" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/characters/animals/horse/attachment/saddle_sack_green_diff.tif" />
+        <Texture Map="Bumpmap" File="objects/characters/animals/horse/attachment/saddle_sack_green_ddna.tif" />
+        <Texture Map="Detail" File="objects/characters/animals/horse/attachment/saddle_sack_dtmask.tif">
+          <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="16" TileV="16" />
+        </Texture>
+      </Textures>
+      <PublicParams EmittanceMapGamma="1" DetailDiffuseScale="1" SSSIndex="0" DetailBumpScale="2.6300001" DetailGlossScale="0.221" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material Name="SubMtl8" MtlFlags="524418" Shader="Illum" GenMask="20000000000" StringGenMask="%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.040915199,0.040915199,0.040915199" Opacity="1" Shininess="10" CloakAmount="0" CustomSortPriority="1" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/characters/animals/horse/textures/horse_saddle_004d_lod1_diff.tif" />
+      </Textures>
+      <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material Name="SubMtl9" MtlFlags="524418" Shader="Illum" GenMask="20000000000" StringGenMask="%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.038204372,0.038204372,0.038204372" Opacity="1" Shininess="10" CloakAmount="0" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/characters/animals/horse/textures/horse_saddle_004d_lod2_diff.tif" />
+      </Textures>
+      <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+  </SubMaterials>
+  <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+</Material>

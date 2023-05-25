@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="missile_weapon" version="1">
+    <rows>
+      <!-- Longbow -->
+      <row item_id="68bdf91e-4794-597b-a4c2-2ccf5d32f6a9" power="86" weapon_sound_switch="c_w_longbow_45p" />
+    </rows>
+  </table>
+</database>

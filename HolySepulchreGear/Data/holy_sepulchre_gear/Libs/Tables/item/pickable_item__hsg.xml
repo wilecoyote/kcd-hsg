@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="pickable_item" version="1">
+    <rows>
+      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
+      <!-- HELMETS -->
+      <!-- Hounskull -->
+      <row entity_script="" item_id="d2c96624-c8a8-4d15-af8c-de461a69bd83" material="characters/humans/cloth/Holy_hounskull" model="characters/humans/cloth/pa_helmet_006" owner_fading_coef="0.02" price="26609" visibility_coef="1" weight="4" />
+      <!-- Bascinet (common, open) -->
+      <row entity_script="" item_id="e3da7735-d9b9-5e26-b09d-ef572b7ace94" material="characters/humans/cloth/Holy_bascinet" model="characters/humans/cloth/pa_helmet_004" owner_fading_coef="0.02" price="9471" visibility_coef="1" weight="3" />
+      
+      <!-- GOLD -->
+      <!-- Cuirass -->
+      <row entity_script="" item_id="3ac36b1d-2d08-42fb-b07b-0dfca5b646d4" material="characters/humans/cloth/Holy_cuirass" model="characters/humans/cloth/pa_kyrys_005" owner_fading_coef="0.02" price="36300" visibility_coef="1" weight="4" />
+      <!-- Chausses -->
+      <row entity_script="" item_id="760d04b2-2e25-46e3-b95f-e9e5153bf25d" material="characters/humans/cloth/Holy_chausses" model="characters/humans/cloth/pa_legs_011" owner_fading_coef="0.02" price="21175" visibility_coef="1" weight="6" />
+      <!-- Pauldrons -->
+      <row entity_script="" item_id="3b3657e0-aee1-4a89-b1b9-ae384b5c5e16" material="characters/humans/cloth/Holy_pauldrons" model="characters/humans/cloth/pa_arm_014" owner_fading_coef="0.02" price="32450" visibility_coef="1" weight="5" />
+      <!-- Gauntlets -->
+      <row entity_script="" item_id="20463222-25d6-47d7-9f9f-ff9262867ea0" material="characters/humans/cloth/Holy_gauntlets" model="characters/humans/cloth/gauntlets_005" owner_fading_coef="0.02" price="11824" visibility_coef="1" weight="3" />
+      
+      <!-- SILVER -->
+      <!-- Cuirass -->
+      <row entity_script="" item_id="4bd47c2e-3e19-530c-c18c-1e0db6c757e5" material="characters/humans/cloth/Holy_cuirass_s" model="characters/humans/cloth/pa_kyrys_005" owner_fading_coef="0.02" price="36300" visibility_coef="1" weight="4" />
+      <!-- Chausses -->
+      <row entity_script="" item_id="871e15c3-3f36-57f4-ca60-faf6264c036e" material="characters/humans/cloth/Holy_chausses_s" model="characters/humans/cloth/pa_legs_011" owner_fading_coef="0.02" price="21175" visibility_coef="1" weight="6" />
+      <!-- Pauldrons -->
+      <row entity_script="" item_id="4c4768f1-bff2-5b8a-c2ca-bf495c6d6f27" material="characters/humans/cloth/Holy_pauldrons_s" model="characters/humans/cloth/pa_arm_014" owner_fading_coef="0.02" price="32450" visibility_coef="1" weight="5" />
+      <!-- Gauntlets -->
+      <row entity_script="" item_id="31574333-36e7-58e8-a0a0-00a373978fb1" material="characters/humans/cloth/Holy_gauntlets_s" model="characters/humans/cloth/gauntlets_005" owner_fading_coef="0.02" price="11824" visibility_coef="1" weight="3" />
+      
+      <!-- OTHER -->
+      <!-- Gambeson (Threadbare Dark) -->
+      <row entity_script="" item_id="576afe01-8233-688d-f00e-6f14b0bd88c0" material="characters/humans/cloth/Holy_gambeson" model="characters/humans/cloth/gambeson001" owner_fading_coef="0.02" price="7579" visibility_coef="1" weight="6" />
+      <!-- Hauberk -->
+      <row entity_script="" item_id="56b4a255-14ff-78c3-f8ad-975cfe0a4297" material="characters/humans/cloth/s1_p2_l2_v0_tx020" model="characters/humans/cloth/gambeson002" owner_fading_coef="0.02" price="9854" visibility_coef="1" weight="12.6" />
+      <!-- Hose (Tight Black) -->
+      <row entity_script="" item_id="695332e1-daaa-ca6d-9e87-07d3d0cd69ce" material="characters/humans/cloth/Holy_pants" model="props/tailor/pants_folded02" owner_fading_coef="0.02" price="2960" visibility_coef="1" weight="0.9" />
+      <!-- Jupon -->
+      <row entity_script="" item_id="59e99fab-83c9-c716-10f9-cf7d73f6e69d" material="characters/humans/cloth/Holy_jupon" model="characters/humans/cloth/gambeson001" owner_fading_coef="0.02" price="9341" visibility_coef="1" weight="5" />
+      <!-- Mail Chausses -->
+      <row entity_script="" item_id="55246a62-d02d-030e-2601-101fb333b695" material="" model="characters/humans/cloth/ca_legs_001" owner_fading_coef="0.02" price="16624" visibility_coef="1" weight="5.4" />
+      <!-- Mail Coif -->
+      <row entity_script="" item_id="50cd9c27-7f69-b05f-9ca6-6aa74eb6f0a7" material="" model="characters/humans/cloth/ca_hood_004" owner_fading_coef="0.02" price="8491" visibility_coef="1" weight="2.7" />
+      <!-- Mail Collar -->
+      <row entity_script="" item_id="b2a885bc-03ab-48eb-be49-a267e88cd260" material="" model="characters/humans/cloth/ca_hood_004" owner_fading_coef="0.02" price="8833" visibility_coef="1" weight="1" />
+      <!-- Neck Chain -->
+      <row entity_script="" item_id="1c0843dc-db2a-501c-b670-d94b8a917e90" material="characters/humans/cloth/Holy_pcoif" model="props/interiors/sacks/sack_02/sack_02_stand" owner_fading_coef="0.02" price="11803" visibility_coef="1" weight="0" />
+      <!-- Padded Coif -->
+      <row entity_script="" item_id="5edc7995-1cf1-db2c-43f7-f31ddcd69d90" material="" model="characters/humans/cloth/g_hood_002" owner_fading_coef="0.02" price="1939" visibility_coef="1" weight="2" />
+      <!-- Padded Coif II -->
+      <row entity_script="" item_id="5fbdb430-eb4f-d82b-1a45-1720deb35199" material="characters/humans/cloth/Holy_pcoif_002" model="characters/humans/cloth/cap_001" owner_fading_coef="0.02" price="508" visibility_coef="1" weight="0.9" />
+      <!-- Ring -->
+      <row entity_script="" item_id="99f3d0db-2098-5107-a7a2-5517787e813d" material="" model="props/interiors/sacks/sack_02/sack_02_stand" owner_fading_coef="0.02" price="11803" visibility_coef="1" weight="0" />
+      <!-- Scarf -->
+      <row entity_script="" item_id="5d524610-04ed-9a21-1f57-20a48f57e9a4" material="" model="characters/humans/cloth/gambeson001" owner_fading_coef="0.02" price="560" visibility_coef="1" weight="1.8" />
+      <!-- Spurs -->
+      <row entity_script="" item_id="b0703a57-df65-5f49-ac3c-6bca6e6d5888" material="" model="characters/humans/cloth/spur" owner_fading_coef="0.02" price="26316" visibility_coef="1" weight="0.5" />
+      
+      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: WEAPONS -->
+      <!-- Axe -->
+      <row entity_script="" item_id="9f3ddbb2-28d3-5df0-c489-f82ed94ceec8" material="" model="weapons/axes/axe_expensive_02" owner_fading_coef="0.02" price="16940" visibility_coef="1" weight="6" />
+      <!-- Hammer -->
+      <row entity_script="" item_id="f27c1b07-0c7b-54f3-abad-2c9d338f75c9" material="" model="weapons/war_hammers/warhammer_04.cgf" owner_fading_coef="0.02" price="16077" visibility_coef="1" weight="5" />
+      <!-- Longbow -->
+      <row entity_script="" item_id="68bdf91e-4794-597b-a4c2-2ccf5d32f6a9" material="weapons/bow/Holy_longbow" model="weapons/bow/Holy_longbow.cdf" owner_fading_coef="0.02" price="8250" visibility_coef="1" weight="3" />
+      <!-- Longsword-->
+      <row entity_script="" item_id="69202fc1-8e53-5e7e-a71a-aa13e47a1d18" material="" model="weapons/swords_short/sword_short_expensive_08" owner_fading_coef="0.02" price="29304" visibility_coef="1" weight="5" />
+      <!-- Mace -->
+      <row entity_script="" item_id="1be47d9d-d0d8-55bc-9f90-0f96f8757c82" material="weapons/maces/Holy_mace" model="weapons/maces/mace_08" owner_fading_coef="0.02" price="18956" visibility_coef="1" weight="4.5" />
+      <!-- Sabre -->
+      <row entity_script="" item_id="bdba1151-1c81-5db1-ae3a-ca5437314d86" material="weapons/sabre_hunting_sword/Holy_sabre" model="weapons/sabre_hunting_sword/sabre_06" owner_fading_coef="0.02" price="6337" visibility_coef="1" weight="3" />
+      <!-- Shield -->
+      <row entity_script="" item_id="47543273-f239-4f80-897c-46a2c026bd4e" material="weapons/shields/Holy_shield" model="weapons/shields/shield_01" owner_fading_coef="0.02" price="9908" visibility_coef="1" weight="6" />
+      
+      <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
+      <!-- Caparison -->
+      <row entity_script="" item_id="25d7f4af-af5c-44c5-9852-c7e29ba25e67" material="characters/animals/horse/cloth/Holy_caparison" model="characters/humans/cloth/cloth_folded" owner_fading_coef="0.02" price="838" visibility_coef="1" weight="7.2" />
+      <!-- Chanfron and Criniere (simple) -->
+      <row entity_script="" item_id="50d1123e-d9ee-dc53-39b7-07bdc7075c94" material="characters/animals/horse/cloth/Holy_chanfron" model="characters/animals/horse/cloth/horse_armor_head_004" owner_fading_coef="0.02" price="11022" visibility_coef="1" weight="18" />
+      <!-- Noble Bridle -->
+      <row entity_script="" item_id="b152ec51-87e2-6416-d093-eda16ee4c191" material="" model="characters/humans/cloth/cloth_folded" owner_fading_coef="0.02" price="13602" visibility_coef="1" weight="1.8" />
+      <!-- Noble Horseshoes -->
+      <row entity_script="" item_id="6edad526-6c6b-5389-c618-164bf3690616" material="" model="props/blacksmith_tools/horseshoe" owner_fading_coef="0.02" price="5712" visibility_coef="1" weight="3.6" />
+      <!-- Noble Saddle 4 side bags -->
+      <row entity_script="" item_id="853a28a0-f0ea-5a1e-5ade-340c35ea26ef" material="characters/animals/horse/Holy_saddle_pickable_004d" model="characters/animals/horse/horse_saddle_001d" owner_fading_coef="0.02" price="13510" visibility_coef="1" weight="18" />
+    </rows>
+  </table>
+</database>

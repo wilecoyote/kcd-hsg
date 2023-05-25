@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Material MtlFlags="524290" Shader="Illum" GenMask="8060080108020" StringGenMask="%BACKFACE_BRIGHTNESS%COLORIZING_WITH_MASK%DIRT_SYSTEM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%THREE_POINT_LIGHTING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="225" AlphaTest="0.34" vertModifType="0" LayerAct="1">
+  <Textures>
+    <Texture Map="Diffuse" File="objects/characters/humans/cloth/Holy_helmets_diff.tif" />
+    <Texture Map="Bumpmap" File="objects/characters/humans/cloth/Holy_helmets_ddna.tif" />
+    <Texture Map="Specular" File="objects/characters/humans/cloth/Holy_helmets_spec.tif" />
+    <Texture Map="Environment" File="objects/characters/humans/cloth/s1_p1_l3_v004_tx001_scratches_spec.tif" />
+    <Texture Map="Decal" File="objects/characters/humans/cloth/s1_p1_l3_v004_tx001_dirtblood_mask.tif" />
+    <Texture Map="Custom" File="objects/characters/humans/cloth/s1_p1_l3_v004_tx001_scratches_diff.tif" />
+    <Texture Map="[1] Custom" File="objects/characters/humans/cloth/s1_p1_l3_v004_tx001_scratches_ddna.tif" />
+  </Textures>
+  <PublicParams ColorizingSaturation="1" DirtIntensity="0" MaskBrightness3="1" DirtColor="0.013702083,0.012286489,0.0091340588" ZoneBlood6="0,0,0" MaskSaturation1="1" ZoneBlood2="0,0,0" ScratchIntensity="0" EmittanceMapGamma="1" BloodGloss="0.80000001" MaskHue3="0" BloodSpec="0.032000002" BloodColor="0.012286489,0,0" MaskHue2="0" ZoneBlood3="0,0,0" DirtGloss="0" ZoneBlood7="0,0,0" MaskBrightness2="1" BackFaceBrightnessMult="0.31999999" ScratchSeed="0" SSSIndex="1.1" ZoneBlood9="0,0,0" MaskSaturation2="1" ZoneBlood5="0,0,0" ZoneBlood1="0,0,0" ZoneBlood8="0,0,0" ColorizingHue="0" ZoneBlood4="0,0,0" MaskSaturation3="1" MaskHue1="0" DirtSpec="0" ColorizingBrightness="1" MaskBrightness1="1" IndirectColor="0.25,0.25,0.25" />
+</Material>

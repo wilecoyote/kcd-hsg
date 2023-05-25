@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Material MtlFlags="524544" vertModifType="0">
+  <SubMaterials>
+    <Material Name="proxy" MtlFlags="524416" Shader="Illum" GenMask="20000000000" StringGenMask="" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="1,1,1" Opacity="1" Shininess="10" CustomSortPriority="2" vertModifType="0" LayerAct="1">
+      <Textures />
+      <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material MtlFlags="524416" Shader="Illum" GenMask="400030080008000" StringGenMask="%DETAIL_ATLAS%NORMAL_MAP%SPECULAR_MAP%WEAPON" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.65837485,0.65837485,0.65837485" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/weapons/maces/mace08_diff.tif" />
+        <Texture Map="Bumpmap" File="objects/weapons/maces/mace08_ddna.tif" />
+        <Texture Map="Specular" File="objects/weapons/maces/Holy_mace_spec.tif" />
+        <Texture Map="Detail" File="objects/weapons/maces/mace08_dtmask.tif">
+          <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="3" TileV="3" />
+        </Texture>
+        <Texture Map="SubSurface" File="objects/weapons/sword_short/sword_short_bloodrust_mask.tif" />
+        <Texture Map="Custom" File="objects/weapons/maces/mace08_weapon_mask.tif" />
+      </Textures>
+      <PublicParams WeaponQualityZone0="0" WeaponQualityZone4="1" EmittanceMapGamma="1" WeaponQualityZone5="1" WeaponQualityZone1="0" WeaponRustBlend="1" DetailDiffuseScale="0.041000001" WeaponBloodGloss="207.5" WeaponQualityZone3="1" WeaponQualityZone7="0" WeaponRustBlendFactor="0" WeaponBloodBlendFalloff="34.5" WeaponBloodBlendFactor="0" SSSIndex="0" WeaponBloodTexScale="1" DetailBumpScale="0.54000002" WeaponRustBlendFalloff="0.5" WeaponRustTexScale="3.95" WeaponBloodSpecular="0.041999999" DetailGlossScale="0.132" WeaponQualityZone6="1" WeaponBloodColor="0.94730651,0.066625945,0.034339808" WeaponQualityZone2="1" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+  </SubMaterials>
+  <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+</Material>

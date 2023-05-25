@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Material MtlFlags="524290" Shader="Illum" GenMask="30080100000" StringGenMask="%DIRT_SYSTEM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="0.7011019,0.7011019,0.7011019" Specular="1,1,1" Opacity="1" Shininess="255" AlphaTest="0.1" CloakAmount="0" vertModifType="0" LayerAct="1">
+  <Textures>
+    <Texture Map="Diffuse" File="objects/characters/animals/horse/cloth/Holy_caparison_diff.tif" />
+    <Texture Map="Bumpmap" File="objects/characters/animals/horse/cloth/Holy_caparison_ddna.tif" />
+    <Texture Map="Specular" File="objects/characters/animals/horse/cloth/Holy_caparison_spec.tif" />
+    <Texture Map="Environment" File="objects/characters/animals/horse/cloth/sh1_p2_l1_v0_generic_scratches_spec.tif" />
+    <Texture Map="Decal" File="objects/characters/animals/horse/cloth/sh1_p2_l1_v0_dirtblood_mask.tif" />
+    <Texture Map="Custom" File="objects/characters/animals/horse/cloth/sh1_p2_l1_v0_generic_scratches_diff.tif" />
+    <Texture Map="[1] Custom" File="objects/characters/animals/horse/cloth/sh1_p2_l1_v0_generic_scratches_ddna.tif" />
+    <Texture Map="Emittance" File="objects/characters/humans/cloth/s1_p2_l1_v0_zone_mask.tif" />
+  </Textures>
+  <PublicParams DirtIntensity="0" DirtColor="0.06124606,0.036889452,0.029556835" ZoneBlood6="0,0,0" ZoneBlood2="0,0,0" ScratchIntensity="0" EmittanceMapGamma="1" BloodGloss="0.73199999" BloodSpec="0.0060000001" BloodColor="0.064803272,0.005181517,0.005181517" ZoneBlood3="0,0,0" DirtGloss="0.51200002" ZoneBlood7="0,0,0" ScratchSeed="0" SSSIndex="0" ZoneBlood9="0,0,0" ZoneBlood5="0,0,0" ZoneBlood1="0,0,0" ZoneBlood8="0,0,0" ZoneBlood4="0,0,0" DirtSpec="-0.067000002" IndirectColor="0.25,0.25,0.25" />
+</Material>

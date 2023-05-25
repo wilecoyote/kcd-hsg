@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="melee_weapon" version="1">
+    <rows>
+      <!-- Axe -->
+      <row attack="5.83" item_id="9f3ddbb2-28d3-5df0-c489-f82ed94ceec8" slash_att_mod="0.88" smash_att_mod="0.99" stab_att_mod="0.55" />
+      <!-- Hammer-->
+      <row attack="6.05" item_id="f27c1b07-0c7b-54f3-abad-2c9d338f75c9" slash_att_mod="0.055" smash_att_mod="1.21" stab_att_mod="0.55" />
+      <!-- Long Sword -->
+      <row attack="5.8" item_id="69202fc1-8e53-5e7e-a71a-aa13e47a1d18" slash_att_mod="1.21" smash_att_mod="0.055" stab_att_mod="1.21" />
+      <!-- Mace-->
+      <row attack="6.05" item_id="1be47d9d-d0d8-55bc-9f90-0f96f8757c82" slash_att_mod="0.055" smash_att_mod="1.21" stab_att_mod="0.055" />
+      <!-- Sabre -->
+      <row attack="5.3" item_id="bdba1151-1c81-5db1-ae3a-ca5437314d86" slash_att_mod="1.38" smash_att_mod="0.055" stab_att_mod="1.1" />
+      <!-- Shield -->
+      <row attack="0" item_id="47543273-f239-4f80-897c-46a2c026bd4e" slash_att_mod="0" smash_att_mod="0" stab_att_mod="0" />
+    </rows>
+  </table>
+</database>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="helmet" version="1">
+    <rows>
+      <!-- Hounskull -->
+      <row item_id="d2c96624-c8a8-4d15-af8c-de461a69bd83" visor_type_id="4" />
+      <!-- Bascinet (common, open) -->
+      <row item_id="e3da7735-d9b9-5e26-b09d-ef572b7ace94" visor_type_id="0" />
+    </rows>
+  </table>
+</database>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Material MtlFlags="524290" Shader="Illum" GenMask="10C0100000000" StringGenMask="%DETAIL_ATLAS%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.7529422,0.7529422,0.7529422" Opacity="1" Shininess="255" AlphaTest="0.19" CloakAmount="0" vertModifType="0" LayerAct="1">
+  <Textures>
+    <Texture Map="Diffuse" File="objects/characters/animals/horse/cloth/sh1_p1_l3_v004_diff.tif" />
+    <Texture Map="Bumpmap" File="objects/characters/animals/horse/cloth/sh1_p1_l3_v004_ddna.tif" />
+    <Texture Map="Specular" File="objects/characters/animals/horse/cloth/Holy_chanfron_spec.tif" />
+    <Texture Map="Detail" File="objects/characters/animals/horse/cloth/sh1_p1_l3_v004_dtmask.tif">
+      <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="4" TileV="4" />
+    </Texture>
+  </Textures>
+  <PublicParams EmittanceMapGamma="1" DetailDiffuseScale="0.28" SSSIndex="0" DetailBumpScale="0.15000001" DetailGlossScale="0.292" IndirectColor="0.25,0.25,0.25" />
+</Material>

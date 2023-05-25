@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="item" version="1">
+    <rows>
+      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
+      <!-- HELMETS -->
+      <!-- Hounskull -->
+      <row item_category_id="16" item_id="d2c96624-c8a8-4d15-af8c-de461a69bd83" item_name="Holy_hounskull" />
+      <!-- Bascinet (common, open) -->
+      <row item_category_id="16" item_id="e3da7735-d9b9-5e26-b09d-ef572b7ace94" item_name="Holy_bascinet" />
+      
+      <!-- GOLD -->
+      <row item_category_id="4" item_id="3ac36b1d-2d08-42fb-b07b-0dfca5b646d4" item_name="Holy_cuirass" />
+      <row item_category_id="4" item_id="760d04b2-2e25-46e3-b95f-e9e5153bf25d" item_name="Holy_chausses" />
+      <row item_category_id="4" item_id="3b3657e0-aee1-4a89-b1b9-ae384b5c5e16" item_name="Holy_pauldrons" />
+      <row item_category_id="4" item_id="20463222-25d6-47d7-9f9f-ff9262867ea0" item_name="Holy_gauntlets" />
+      
+      <!-- SILVER -->
+      <row item_category_id="4" item_id="4bd47c2e-3e19-530c-c18c-1e0db6c757e5" item_name="Holy_cuirass_s" />
+      <row item_category_id="4" item_id="871e15c3-3f36-57f4-ca60-faf6264c036e" item_name="Holy_chausses_s" />
+      <row item_category_id="4" item_id="4c4768f1-bff2-5b8a-c2ca-bf495c6d6f27" item_name="Holy_pauldrons_s" />
+      <row item_category_id="4" item_id="31574333-36e7-58e8-a0a0-00a373978fb1" item_name="Holy_gauntlets_s" />
+      
+      <!-- OTHER -->
+      <!-- Gambeson (Threadbare Dark) -->
+      <row item_category_id="4" item_id="576afe01-8233-688d-f00e-6f14b0bd88c0" item_name="Holy_gambeson" />
+      <!-- Hauberk -->
+      <row item_category_id="4" item_id="56b4a255-14ff-78c3-f8ad-975cfe0a4297" item_name="Holy_hauberk" />
+      <!-- Hose (Tight Black) -->
+      <row item_category_id="4" item_id="695332e1-daaa-ca6d-9e87-07d3d0cd69ce" item_name="Holy_pants" />
+      <!-- Jupon -->
+      <row item_category_id="4" item_id="59e99fab-83c9-c716-10f9-cf7d73f6e69d" item_name="Holy_jupon" />
+      <!-- Mail Chausses -->
+      <row item_category_id="4" item_id="55246a62-d02d-030e-2601-101fb333b695" item_name="Holy_mchausses" />
+      <!-- Mail Coif -->
+      <row item_category_id="4" item_id="50cd9c27-7f69-b05f-9ca6-6aa74eb6f0a7" item_name="Holy_mcoif" />
+      <!-- Mail Collar -->
+      <row item_category_id="4" item_id="b2a885bc-03ab-48eb-be49-a267e88cd260" item_name="Holy_mcollar" />
+      <!-- Neck Chain -->
+      <row item_category_id="4" item_id="1c0843dc-db2a-501c-b670-d94b8a917e90" item_name="Holy_necklace" />
+      <!-- Padded Coif -->
+      <row item_category_id="4" item_id="5edc7995-1cf1-db2c-43f7-f31ddcd69d90" item_name="Holy_pcoif" />
+      <!-- Padded Coif II -->
+      <row item_category_id="4" item_id="5fbdb430-eb4f-d82b-1a45-1720deb35199" item_name="Holy_pcoif_002" />
+      <!-- Ring -->
+      <row item_category_id="4" item_id="99f3d0db-2098-5107-a7a2-5517787e813d" item_name="Holy_ring" />
+      <!-- Scarf (Black) -->
+      <row item_category_id="4" item_id="5d524610-04ed-9a21-1f57-20a48f57e9a4" item_name="Holy_scarf" />
+      <!-- Spurs -->
+      <row item_category_id="4" item_id="b0703a57-df65-5f49-ac3c-6bca6e6d5888" item_name="Holy_spurs" />
+      
+      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: WEAPONS -->
+      <!-- Axe -->
+      <row item_category_id="1" item_id="9f3ddbb2-28d3-5df0-c489-f82ed94ceec8" item_name="Holy_axe" />
+      <!-- Hammer -->
+      <row item_category_id="1" item_id="f27c1b07-0c7b-54f3-abad-2c9d338f75c9" item_name="Holy_hammer" />
+      <!-- Longbow -->
+      <row item_category_id="2" item_id="68bdf91e-4794-597b-a4c2-2ccf5d32f6a9" item_name="Holy_longbow" />
+      <!-- Longsword -->
+      <row item_category_id="1" item_id="69202fc1-8e53-5e7e-a71a-aa13e47a1d18" item_name="Holy_longsword" />
+      <!-- Mace -->
+      <row item_category_id="1" item_id="1be47d9d-d0d8-55bc-9f90-0f96f8757c82" item_name="Holy_mace" />
+      <!-- Sabre -->
+      <row item_category_id="1" item_id="bdba1151-1c81-5db1-ae3a-ca5437314d86" item_name="Holy_sabre" />
+      <!-- Shield -->
+      <row item_category_id="1" item_id="47543273-f239-4f80-897c-46a2c026bd4e" item_name="Holy_shield" />
+      
+      <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
+      <!-- Caparison -->
+      <row item_category_id="4" item_id="25d7f4af-af5c-44c5-9852-c7e29ba25e67" item_name="Holy_caparison" />
+      <!-- Chanfron and Criniere (simple) -->
+      <row item_category_id="4" item_id="50d1123e-d9ee-dc53-39b7-07bdc7075c94" item_name="Holy_horse_armor_head_neck" />
+      <!-- Noble Bridle -->
+      <row item_category_id="4" item_id="b152ec51-87e2-6416-d093-eda16ee4c191" item_name="Holy_bridle" />
+      <!-- Noble Horseshoes -->
+      <row item_category_id="4" item_id="6edad526-6c6b-5389-c618-164bf3690616" item_name="Holy_horse_shoe" />
+      <!-- Noble Saddle 4 side bags -->
+      <row item_category_id="4" item_id="853a28a0-f0ea-5a1e-5ade-340c35ea26ef" item_name="Holy_saddle_004_d" />
+    </rows>
+  </table>
+</database>

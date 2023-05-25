@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Material MtlFlags="524290" Shader="Illum" GenMask="100C0110060400" StringGenMask="%CLIP_BY_VERTEX_COLOR%COLORIZING_WITH_MASK%DETAIL_MAPPING%DIRT_SYSTEM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%THREE_POINT_LIGHTING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" AlphaTest="0.41999999" CustomSortPriority="34" vertModifType="0" LayerAct="1">
+  <Textures>
+    <Texture Map="Diffuse" File="objects/characters/humans/cloth/Holy_pcoif_diff.tif" />
+    <Texture Map="Bumpmap" File="objects/characters/humans/cloth/s1_p1_l1_v002_ddna.tif" />
+    <Texture Map="Specular" File="objects/characters/humans/cloth/s1_p1_l1_v002_spec.tif" />
+    <Texture Map="Environment" File="objects/characters/humans/cloth/s1_p1_l1_v002_scratches_spec.tif" />
+    <Texture Map="Detail" File="textures/detailmaps/fabric_02_detail_dt.dds">
+      <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="8" TileV="8" />
+    </Texture>
+    <Texture Map="Decal" File="objects/characters/humans/cloth/s1_p1_l1_v002_dirtblood_mask.tif" />
+    <Texture Map="Custom" File="objects/characters/humans/cloth/s1_p1_l1_v002_scratches_diff.tif" />
+    <Texture Map="[1] Custom" File="objects/characters/humans/cloth/s1_p1_l1_v002_scratched_ddna.tif" />
+    <Texture Map="Emittance" File="objects/characters/humans/cloth/s1_p1_l1_v002_zone_mask.tif" />
+  </Textures>
+  <PublicParams ClipControl="0" ColorizingSaturation="1" DirtIntensity="0" MaskBrightness3="1" DirtColor="0.02842604,0.026241222,0.018500222" ZoneBlood6="0,0,0" MaskSaturation1="1" ZoneBlood2="0,0,0" ScratchIntensity="0" EmittanceMapGamma="1" BloodGloss="0.77499998" MaskHue3="0" BloodSpec="0.0060000001" BloodColor="0.019382363,0,0" MaskHue2="0" ZoneBlood3="0,0,0" DirtGloss="0.67799997" ZoneBlood7="0,0,0" MaskBrightness2="1" DetailDiffuseScale="1" ScratchSeed="0" SSSIndex="1.1" DetailBumpScale="4.6599998" ZoneBlood9="0,0,0" MaskSaturation2="1" ZoneBlood5="0,0,0" ZoneBlood1="0,0,0" ZoneBlood8="0,0,0" ColorizingHue="0" ZoneBlood4="0,0,0" MaskSaturation3="1" DetailGlossScale="0.5" MaskHue1="0" DirtSpec="0" ColorizingBrightness="1" MaskBrightness1="1" IndirectColor="0.25,0.25,0.25" />
+</Material>

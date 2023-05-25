@@ -1,0 +1,282 @@
+<Table>
+  <Row>
+    <Cell>ui_in_Holy_axe</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Axe&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;A battleaxe of the highest quality. The blade will endure many blows and cut through even strong plate armour, and the handle will take even the most powerful blows of enraged foes. Demands respect in all circumstances.</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Waffenart: &amp;lt;/font&amp;gt;Axt&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Eine Streitaxt von höchster Qualität. Die Klinge hält vielen Angriffen stand und schneidet selbst durch dicke Panzerplatten. Auch der Griff widersteht den wuchtigsten Hieben des Gegners, und somit ist diese Streitaxt eine respekteinflößende Waffe.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_caparison</Cell>
+    <Cell>A caparison belonging to an unknown knight of the order of the Holy Sepulcher. He had had it done to adorn his horse in the colors of his religious order</Cell>
+    <Cell>Eine Schabracke aus dem Besitz eines unbekannten Ritters des Ordens der Heiligen Grabwächter. Er ließ sie fertigen, um sein Pferd in den Farben seiner Ordensgemeinschaft zu schmücken</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_chausses</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+    <Cell>Beinkleider, die einst einem unbekannten Ritter des Ordens der Heiligen Grabwächter gehörten. Er ließ sie fertigen, um sich auf einen neuen Kreuzzug vorzubereiten, der nie stattfand.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_cuirass</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+    <Cell>Ein Kürass, der einst einem unbekannten Ritter des Ordens der Heiligen Grabwächter gehörte. Er ließ ihn schmieden, um sich auf einen neuen Kreuzzug vorzubereiten, der nie stattfand.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_gambeson</Cell>
+    <Cell>The gambeson is a padded, quilted jacket. It provides some protection in combat and can be combined with mail or plate armour.</Cell>
+    <Cell>Der Gambeson ist eine gefütterte Jacke, die durch Steppen hergestellt wird. Sie bietet im Kampf leichten Schutz und kann mit einer Ketten- oder Plattenrüstung kombiniert werden. </Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_gauntlets</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+    <Cell>Panzerhandschue, die einst einem unbekannten Ritter des Ordens der Heiligen Grabwächter gehörten. Er ließ sie schmieden, um sich auf einen neuen Kreuzzug vorzubereiten, der nie stattfand.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_holy_hammer</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Mace&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;The ornamented war hammer, known as a 'holy sepulchre hammer' for its ability to pierce armour. It's forged in one solid piece, so it can take a lot of rough treatment.</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Waffenart: &amp;lt;/font&amp;gt;Streitkolben&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Der verzierte Kriegshammer, der wegen seiner Fähigkeit, sich durch Rüstungen zu „picken“, als „Grabwächterhammer“ bekannt ist. Er wurde aus einem einzigen soliden Stück geschmiedet und hält daher einiges aus.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_Hauberk</Cell>
+    <Cell>Chainmail made of thousands of the finest steel rings. It must have been devilishly difficult to make, but this fine mesh will reliably stop most attacks. The mail covers especially the spots that cannot be protected by plates, like armpits. A real jewel of the armourer's craft. The armour is emblazoned with silver monogram WH.</Cell>
+    <Cell>Ein Kettenhemd, das aus tausenden feinen Stahlringen besteht. Die Fertigung muss außerordentlich mühsam und schwierig gewesen sein, aber die feine Masche absorbiert zuverlässig die meisten Angriffe. Das Kettenhemd schützt auch diejenigen Körperstellen, die nicht durch Platten geschützt werden können, wie beispielsweise die Achseln. Das Monogramm „WH“ ziert silbern dieses wahre Kleinod des Rüstungshandwerks.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_helmet</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+    <Cell>Ein Plattenhelm, der einst einem unbekannten Ritter des Ordens der Heiligen Grabwächter gehörte. Er ließ ihn schmieden, um sich auf einen neuen Kreuzzug vorzubereiten, der nie stattfand.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_Jupon</Cell>
+    <Cell>The pourpoint and jupon were quilted jackets similar to the gambeson, but lighter. Unlike the gambeson, a jupon could be worn over plate armour or a brigandine, more for ornament than protection, although every layer helps. The pourpoint looks practically identical, but is worn over normal clothing as an overcoat.</Cell>
+    <Cell>Bei der Pourpoint und dem Jupon handelte es sich um gesteppte Kleidungsstücke ähnlich dem Gambeson, jedoch leichter. Im Gegensatz zum Gambeson konnte der Jupon über einer Plattenrüstung oder Brigantine getragen werden, was jedoch eher zur Zierde getan wurde, wenngleich jede Schicht zusätzlichen Schutz bot. Die Pourpoint unterschied sich optisch kaum, wurde jedoch über normaler Kleidung getragen.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_mace</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Mace&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;A holy sepulchre mace is a symbol of military status, which is not to say that it's a mere fashion accessory - it serves just as well as a weapon and the heavy head can put serious dents in an opponent's armour... or head.</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Waffenart: &amp;lt;/font&amp;gt;Streitkolben&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Ein Grabwächterstreitkolben ist ein militärisches Statussymbol. Das heißt jedoch nicht, dass er nur modischer Zierrat ist. Er dient auch als Waffe und sein schwerer Kopf kann die Rüstung eines Gegners stark eindellen … oder dessen Haupt.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_mchausses</Cell>
+    <Cell>Padded chausses protecting knight's legs, used especially as a lower layer under the plate armour. These are moreover created so as to be really comfortable and the heavy armour will not press heavily and uncomfortably on the knight's body.</Cell>
+    <Cell>Kettenbeinlinge, die die Beine des Ritters schützen und gerne unter einer Plattenrüstung getragen werden. Sie sollen bequem sein und verhindern, dass die schwere Rüstung direkt auf den Körper des Trägers drückt.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_mcoif</Cell>
+    <Cell>A mail coif is a hood covering the head, neck and shoulders with chainmail. In combat it provides very good protection of vulnerable spots.</Cell>
+    <Cell>Eine Kettenhaube ist eine Kopfbedeckung, die Kopf, Nacken und Schultern mit Ketten bedeckt. Bietet den verwundbaren Körperstellen im Kampf sehr guten Schutz.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_necklace</Cell>
+    <Cell>Necklaces, chains and other ornaments are an integral part of 15th century men and women's fashion. Just like today, their main purpose is to flaunt the wearer's wealth and social status.</Cell>
+    <Cell>Halsketten und andere Schmuckstücke sind bei Männern wie Frauen des 15. Jahrhunderts wichtiger Bestandteil der Mode. Genau wie heute sollen sie den Status und Reichtum ihres Trägers betonen.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_pauldrons</Cell>
+    <Cell>A piece of armor that belonged to an unknown Knight of the Order of the Holy Sepulcher. He had it forged to prepare for a new crusade that never took place</Cell>
+    <Cell>Schulterstücke, die einst einem unbekannten Ritter des Ordens der Heiligen Grabwächter gehörten. Er ließ sie schmieden, um sich auf einen neuen Kreuzzug vorzubereiten, der nie stattfand.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_pcoif</Cell>
+    <Cell>The padded coif is usually worn as a helmet liner but can be worn alone as basic head protection in combat.</Cell>
+    <Cell>Gewöhnlich trägt man gepolsterte Hauben unter einem Helm. Sie können im Kampf jedoch auch alleine als Kopfschutz angelegt werden.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_ring</Cell>
+    <Cell>An expensive ornament of noble fingers.</Cell>
+    <Cell>Eine kostspielige Zier für die Finger eines Grabwächters.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_saber</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Sabre&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Unlike other swords, which are designed to be as well-balanced as possible, the sabre carries the greatest weight at its tip. This makes it a formidable weapon, but much harder to handle. Its curved shape also makes it less suited to stabbing.</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Waffenart: &amp;lt;/font&amp;gt;Säbel&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Im Gegensatz zu anderen Klingenwaffen, die auf maximale Ausgewogenheit ausgelegt sind, trägt der Säbel sein größtes Gewicht an der Spitze. Damit ist er eine vorzügliche Waffe, aber schwierig in der Handhabung. Aufgrund seiner gekrümmten Form eignet er sich weniger für Stichangriffe.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_shield</Cell>
+    <Cell>A shield of very good quality having belonged to an unknown knight of the order of the Holy Sepulcher. It is extraordinarily well maintained, its former owner had to like it</Cell>
+    <Cell>Ein Schild von sehr guter Qualität, der einst einem unbekannten Ritter des Ordens der Heiligen Grabwächter gehörte. Es ist außerordentlich gut gepflegt, sein ehemaliger Besitzer muss sehr stolz darauf gewesen sein</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_spurs</Cell>
+    <Cell>Holy Sepulchre spurs not only significantly improve horse control, but also increase charisma.</Cell>
+    <Cell>Die Reitsporen eines Grabwächters verbessern nicht nur die Kontrolle über das Pferd beträchtlich, sondern erhöhen auch das Charisma.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_in_Holy_sword</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Longsword&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Not every knight is born valiant and not every noble is born rich. But both must flaunt their social standing and sometimes their fighting skills too. This is the best longsword a nobleman who's fallen on hard times can afford. A master swordsman can do great things with it, but in inexperienced hands it will quickly become dull, because the material of the blade is not the best.</Cell>
+    <Cell>&amp;lt;font color='#512D00'&amp;gt;Waffenart: &amp;lt;/font&amp;gt;Langschwert&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Nicht jeder Ritter wird tapfer geboren und nicht jeder Adelige kommt reich zur Welt. Doch beide müssen ihren Stand zur Schau stellen – und manchmal auch ihr Kampfgeschick. Dies ist das beste Langschwert, das sich ein armer Adeliger zu leisten vermag. Ein Schwertmeister kann mit dieser Klinge Großes bewirken, doch in ungeübten Händen wird sie rasch stumpf, weil sie nicht aus dem besten Material gefertigt ist.</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_axe</Cell>
+    <Cell>Axe (Holy Sepulchre)</Cell>
+    <Cell>Grabwächteraxt</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_bascinet</Cell>
+    <Cell>Bascinet (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterbeckenhaube</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_Bridle</Cell>
+    <Cell>Bridle (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterzaumzeug</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_caparison</Cell>
+    <Cell>Caparison (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterschabracke</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_chanfron</Cell>
+    <Cell>Plate chanfron (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterchanfron</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_chausses</Cell>
+    <Cell>Plate chausses (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterplattenbeinlinge</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_chausses_s</Cell>
+    <Cell>Plate chausses (silver, Holy Sepulchre)</Cell>
+    <Cell>Grabwächterplattenbeinlinge (silber)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_cuirass</Cell>
+    <Cell>Cuirass (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterkürass</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_cuirass_s</Cell>
+    <Cell>Cuirass (silver, Holy Sepulchre)</Cell>
+    <Cell>Grabwächterkürass (silber)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_gambeson</Cell>
+    <Cell>Gambeson (Holy Sepulchre)</Cell>
+    <Cell>Grabwächtergambeson</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_gauntlets</Cell>
+    <Cell>Gauntlets (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterstulpen</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_gauntlets_s</Cell>
+    <Cell>Gauntlets (silver, Holy Sepulchre)</Cell>
+    <Cell>Grabwächterstulpen (silber)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_hammer</Cell>
+    <Cell>Warhammer (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterkriegshammer</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_hauberk</Cell>
+    <Cell>Hauberk (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterkettenhemd</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_horse_shoe</Cell>
+    <Cell>Horseshoes (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterhufeisen</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_hounskull</Cell>
+    <Cell>Hounskull (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterhundsgugel</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_jupon</Cell>
+    <Cell>Jupon (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterjupon</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_longbow</Cell>
+    <Cell>Longbow (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterlangbogen</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_mace</Cell>
+    <Cell>Mace (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterstreitkolben</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_mchausses</Cell>
+    <Cell>Mail chausses (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterkettenbeinlinge</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_mcoif</Cell>
+    <Cell>Mail Coif (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterkettenhaube</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_mcollar</Cell>
+    <Cell>Mail collar (Holy Sepulchre)</Cell>
+    <Cell>Grabwächternackenschutz</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_necklace</Cell>
+    <Cell>Golden chain (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterhalskette (gold)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_pants</Cell>
+    <Cell>Tight hose (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterbeinlinge</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_pauldrons</Cell>
+    <Cell>Plate pauldrons (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterschultern</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_pauldrons_s</Cell>
+    <Cell>Plate pauldrons (silver, Holy Sepulchre)</Cell>
+    <Cell>Grabwächterschultern (silber)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_pcoif</Cell>
+    <Cell>Padded coif (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterbundhaube</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_pcoif_002</Cell>
+    <Cell>Coif (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterbundhaube</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_ring</Cell>
+    <Cell>Ring (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterring (gold)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_saber</Cell>
+    <Cell>Sabre (Holy Sepulchre)</Cell>
+    <Cell>Grabwächtersäbel</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_saddle_004d</Cell>
+    <Cell>Saddle (Ludovingian, 4 sb)</Cell>
+    <Cell>Grabwächtersattel (4T)</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_scarf</Cell>
+    <Cell>Scarf (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterkapuzenschal</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_shield</Cell>
+    <Cell>Shield (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterschild</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_spurs</Cell>
+    <Cell>Spurs (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterreitsporen</Cell>
+  </Row>
+  <Row>
+    <Cell>ui_nm_Holy_sword</Cell>
+    <Cell>Longsword (Holy Sepulchre)</Cell>
+    <Cell>Grabwächterlangschwert</Cell>
+  </Row>
+</Table>

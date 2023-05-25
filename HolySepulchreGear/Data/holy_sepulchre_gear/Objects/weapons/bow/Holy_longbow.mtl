@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Material MtlFlags="524544" vertModifType="0">
+  <SubMaterials>
+    <Material Name="bow" MtlFlags="524416" Shader="Illum" GenMask="30080008000" StringGenMask="%DETAIL_ATLAS%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" CustomSortPriority="4" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/weapons/bow/Holy_longbow_diff.tif" />
+        <Texture Map="Bumpmap" File="objects/weapons/bow/bow_05_a_ddna.tif" />
+        <Texture Map="Specular" File="objects/weapons/bow/bow_05_a_spec.tif" />
+        <Texture Map="Detail" File="objects/weapons/bow/bow_05_a_dtmask.tif">
+          <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="4" TileV="8" />
+        </Texture>
+      </Textures>
+      <PublicParams EmittanceMapGamma="1" DetailDiffuseScale="1" SSSIndex="0" DetailBumpScale="0.80000001" DetailGlossScale="0.5" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_wood" MatTemplate="" Diffuse="0.58823532,0.58823532,0.58823532" Specular="0,0,0" Opacity="1" Shininess="9.999999" CustomSortPriority="3" vertModifType="0" LayerAct="1">
+      <Textures />
+    </Material>
+    <Material Name="arrow" MtlFlags="524416" Shader="Illum" GenMask="30080000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" CustomSortPriority="2" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/weapons/arrow/arrow_01_diff.tif" />
+        <Texture Map="Bumpmap" File="objects/weapons/arrow/arrow_01_ddn.tif" />
+        <Texture Map="Specular" File="objects/weapons/arrow/arrow_01_spec.tif" />
+      </Textures>
+      <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material Name="feathers" MtlFlags="524416" Shader="Illum" GenMask="20080000000" StringGenMask="%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.031896032,0.031896032,0.031896032" Opacity="1" Shininess="255" CustomSortPriority="1" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/weapons/arrow/feathers_diff.tif" />
+        <Texture Map="Bumpmap" File="objects/weapons/arrow/feathers_ddna.tif" />
+        <Texture Map="Detail" File="objects/weapons/arrow/feathers_dt.tif" />
+      </Textures>
+      <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material Name="bowstring" MtlFlags="524448" Shader="Illum" GenMask="20080000000" StringGenMask="%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.033104766,0.033104766,0.033104766" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/weapons/bow/bow_01_diff.tif" />
+        <Texture Map="Bumpmap" File="objects/weapons/bow/bow_01_ddna.tif" />
+      </Textures>
+      <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+  </SubMaterials>
+  <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+</Material>

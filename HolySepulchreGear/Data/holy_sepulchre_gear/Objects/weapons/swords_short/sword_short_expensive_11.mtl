@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Material MtlFlags="524544" vertModifType="0">
+  <SubMaterials>
+    <Material Name="metal" MtlFlags="524416" Shader="Illum" GenMask="1400030080020000" StringGenMask="%DETAIL_MAPPING%NORMAL_MAP%SNDUVS%SPECULAR_MAP%SUBSURFACE_SCATTERING%WEAPON" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" CloakAmount="0" CustomSortPriority="2" vertModifType="0" LayerAct="1">
+      <Textures>
+        <Texture Map="Diffuse" File="objects/weapons/swords_short/sword_short_expensive_11_diff.tif" />
+        <Texture Map="Bumpmap" File="objects/weapons/swords_short/sword_short_expensive_08_ddna.tif" />
+        <Texture Map="Specular" File="objects/weapons/swords_short/sword_short_expensive_11_spec.tif" />
+        <Texture Map="Detail" File="objects/weapons/sword_bastard_1/bastard_sword_scratches_dt.tif" />
+        <Texture Map="SubSurface" File="objects/weapons/sword_short/sword_short_bloodrust_mask.tif" />
+        <Texture Map="Custom" File="objects/weapons/swords_short/sword_short_expensive_08_weapon_mask.tif" />
+      </Textures>
+      <PublicParams WeaponQualityZone0="1" WeaponQualityZone4="0" EmittanceMapGamma="1" SndUVsTileU="1" WeaponQualityZone5="0" WeaponQualityZone1="0" WeaponRustBlend="0.81800002" DetailDiffuseScale="0.5" WeaponBloodGloss="218.2" WeaponQualityZone3="0" WeaponQualityZone7="1" WeaponRustBlendFactor="0" WeaponBloodBlendFalloff="54.599998" WeaponBloodBlendFactor="0" SSSIndex="0" WeaponBloodTexScale="9.8199997" DetailBumpScale="2" WeaponRustBlendFalloff="1.1" WeaponRustTexScale="3.95" SndUVsTileV="1" WeaponBloodSpecular="0.0099999998" DetailGlossScale="0.5" WeaponQualityZone6="0" WeaponBloodColor="0.94730651,0.066625945,0.034339808" WeaponQualityZone2="0" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+    <Material Name="proxy" MtlFlags="524416" Shader="Illum" GenMask="20000000000" StringGenMask="%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="0,0,0" Opacity="1" Shininess="10" CloakAmount="0" vertModifType="0" LayerAct="1">
+      <Textures />
+      <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+    </Material>
+  </SubMaterials>
+  <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25" />
+</Material>
