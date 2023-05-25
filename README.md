@@ -113,4 +113,3 @@ If you use my mods in combination with older ones that completely overwrite tabl
 * And of course the team of **[ModsInExile](https://discourse.modsinexile.com/about)**
 
 # [![ModsInExile](https://github.com/wilecoyote/kcd-hsg/assets/1034673/dea5bd3c-d655-4838-8084-5643608f96d5)](https://discourse.modsinexile.com/)[![KCD Modding](https://github.com/wilecoyote/kcd-hsg/assets/1034673/3facff5e-f616-4aba-8749-1dec72f32a5c)](https://discord.gg/h89SS5VkvU "Join KCD Modding")
-
