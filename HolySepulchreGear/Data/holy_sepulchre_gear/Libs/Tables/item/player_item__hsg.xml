@@ -2,7 +2,7 @@
 <database name="hammerheart">
   <table name="player_item" version="1">
     <rows>
-      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
+    <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
       <!-- HELMETS -->
       <!-- Hounskull -->
       <row icon_id="335" item_id="d2c96624-c8a8-4d15-af8c-de461a69bd83" ui_info="ui_in_Holy_helmet" ui_name="ui_nm_Holy_hounskull" />
@@ -48,7 +48,7 @@
       <!-- Spurs -->
       <row icon_id="128" item_id="b0703a57-df65-5f49-ac3c-6bca6e6d5888" ui_info="ui_in_Holy_spurs" ui_name="ui_nm_Holy_spurs" />
       
-      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: WEAPONS -->
+    <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: WEAPONS -->
       <!-- Axe -->
       <row icon_id="166" item_id="9f3ddbb2-28d3-5df0-c489-f82ed94ceec8" ui_info="ui_in_Holy_axe" ui_name="ui_nm_Holy_axe" />
       <!-- Hammer -->
@@ -64,7 +64,7 @@
       <!-- Shield -->
       <row icon_id="867" item_id="47543273-f239-4f80-897c-46a2c026bd4e" ui_info="ui_in_Holy_shield" ui_name="ui_nm_Holy_shield" />
       
-      <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
+    <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
       <!-- Caparison -->
       <row icon_id="969" item_id="25d7f4af-af5c-44c5-9852-c7e29ba25e67" ui_info="ui_in_Holy_caparison" ui_name="ui_nm_Holy_caparison" />
       <!-- Chanfron and Criniere (simple) -->

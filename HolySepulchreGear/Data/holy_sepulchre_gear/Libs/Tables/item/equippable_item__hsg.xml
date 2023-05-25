@@ -2,7 +2,7 @@
 <database name="hammerheart">
   <table name="equippable_item" version="1">
     <rows>
-      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
+    <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
       <!-- HELMETS -->
       <!-- Hounskull -->
       <row charisma="17" conspicuousness="0.3" item_id="d2c96624-c8a8-4d15-af8c-de461a69bd83" rpg_buff_weight="0" social_class_id="33" visibility="0.504" wealth_level="2" />
@@ -57,7 +57,7 @@
       <!-- Spurs -->
       <row charisma="20" conspicuousness="-0.6" item_id="b0703a57-df65-5f49-ac3c-6bca6e6d5888" rpg_buff_weight="1.2" social_class_id="14" visibility="-0.4" wealth_level="2" />
       
-      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: WEAPONS -->
+    <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: WEAPONS -->
       <!-- Axe -->
       <row charisma="19" conspicuousness="0" item_id="9f3ddbb2-28d3-5df0-c489-f82ed94ceec8" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="2" />
       <!-- Hammer -->
@@ -73,7 +73,7 @@
       <!-- Shield -->
       <row charisma="20" conspicuousness="0" item_id="47543273-f239-4f80-897c-46a2c026bd4e" rpg_buff_weight="1.66666" social_class_id="0" visibility="0" wealth_level="2" />
       
-      <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
+    <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
       <!-- Caparison -->
       <row charisma="0" conspicuousness="0.18" item_id="25d7f4af-af5c-44c5-9852-c7e29ba25e67" rpg_buff_weight="0" social_class_id="1" visibility="0.18" wealth_level="2" />
       <!-- Chanfron and Criniere (simple) -->

@@ -2,7 +2,7 @@
 <database name="hammerheart">
   <table name="clothing_raycast" version="4">
     <rows>
-      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
+    <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
       <!-- HELMETS -->
       <!-- Hounskull -->
       <row material="Objects/characters/humans/cloth/Holy_hounskull.mtl" not_culled_triangle_mask="" opaque_triangle_mask="lwX///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9/+v8v4P9eu/X998uWm/t/Wvr/////////////fw==" skin="Objects/characters/humans/cloth/s1_p1_l3_v006.skin" timestamp="745235362567931904" />
@@ -41,7 +41,7 @@
       <!-- Padded Coif II -->
       <row material="Objects/characters/humans/cloth/Holy_pcoif_002.mtl" not_culled_triangle_mask="" opaque_triangle_mask="" skin="Objects/characters/humans/cloth/s1_p1_l1_v0.skin" timestamp="745235370262079488" />
       
-      <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
+    <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
       <!-- Caparison -->
       <row material="Objects/characters/animals/horse/cloth/Holy_caparison.mtl" not_culled_triangle_mask="vAf/////////////////////////v15+5fzPefz///9/L/3///95/v/zn38/7XksL6CADwzP/////////////////1xRrXy9XuN//////29cvn/XVzu3Af////////////////////93+tf/////////////////////////////////////////////////////39eSn+dnHv/////v/dPnH+CX+f/8/z//H+a/AIzDn7/AYnD8//////////8/7/P6xv//////////////////////////////////////////f87///////////////+n6////f//Ag==" opaque_triangle_mask="vAf//////////////////////99aDxZehDwPYQypr/cxIfT/z/8ZZp7zHwoN5BkIC6CABQAA////////////////DwAAiCgsFoN/8/9f/GAYBkjFRSgCAP///////////////////4MF6MXvJ3///w96/zn/U5ffn+sL/v////////////////////P////////aS0cQHoZnAMP4y2um/EDnBwCQmf/8/wDzHwAcAABAGD6AYCAM/v///////z8dS8NYBtzqa33+11/r//27/7/7+9b/////////////f9b8f/z/Psr////////P/9///wkBosURIP4sAA==" skin="Objects/characters/animals/horse/cloth/sh1_p2_l1_v0.skin" timestamp="745235490391798784" />
       <!-- Chanfron and Criniere (simple) -->

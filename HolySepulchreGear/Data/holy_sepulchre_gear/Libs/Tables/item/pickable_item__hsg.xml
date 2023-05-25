@@ -2,7 +2,7 @@
 <database name="hammerheart">
   <table name="pickable_item" version="1">
     <rows>
-      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
+    <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
       <!-- HELMETS -->
       <!-- Hounskull -->
       <row entity_script="" item_id="d2c96624-c8a8-4d15-af8c-de461a69bd83" material="characters/humans/cloth/Holy_hounskull" model="characters/humans/cloth/pa_helmet_006" owner_fading_coef="0.02" price="26609" visibility_coef="1" weight="4" />
@@ -57,7 +57,7 @@
       <!-- Spurs -->
       <row entity_script="" item_id="b0703a57-df65-5f49-ac3c-6bca6e6d5888" material="" model="characters/humans/cloth/spur" owner_fading_coef="0.02" price="26316" visibility_coef="1" weight="0.5" />
       
-      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: WEAPONS -->
+    <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: WEAPONS -->
       <!-- Axe -->
       <row entity_script="" item_id="9f3ddbb2-28d3-5df0-c489-f82ed94ceec8" material="" model="weapons/axes/axe_expensive_02" owner_fading_coef="0.02" price="16940" visibility_coef="1" weight="6" />
       <!-- Hammer -->
@@ -73,7 +73,7 @@
       <!-- Shield -->
       <row entity_script="" item_id="47543273-f239-4f80-897c-46a2c026bd4e" material="weapons/shields/Holy_shield" model="weapons/shields/shield_01" owner_fading_coef="0.02" price="9908" visibility_coef="1" weight="6" />
       
-      <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
+    <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
       <!-- Caparison -->
       <row entity_script="" item_id="25d7f4af-af5c-44c5-9852-c7e29ba25e67" material="characters/animals/horse/cloth/Holy_caparison" model="characters/humans/cloth/cloth_folded" owner_fading_coef="0.02" price="838" visibility_coef="1" weight="7.2" />
       <!-- Chanfron and Criniere (simple) -->

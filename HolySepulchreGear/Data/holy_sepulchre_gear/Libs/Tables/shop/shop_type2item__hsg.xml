@@ -2,7 +2,7 @@
 <database name="hammerheart">
   <table name="shop_type2item" version="1">
     <rows>
-      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
+    <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
       <!-- HELMETS -->
       <!-- Hounskull -->
       <row amount="1" default_on="True" item_id="d2c96624-c8a8-4d15-af8c-de461a69bd83" shop_type_id="8" />
@@ -85,7 +85,7 @@
       <row amount="1" default_on="True" item_id="b0703a57-df65-5f49-ac3c-6bca6e6d5888" shop_type_id="62" />
       <row amount="1" default_on="True" item_id="b0703a57-df65-5f49-ac3c-6bca6e6d5888" shop_type_id="63" />
       
-      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: WEAPONS -->
+    <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: WEAPONS -->
       <!-- Axe -->
       <row amount="1" default_on="True" item_id="9f3ddbb2-28d3-5df0-c489-f82ed94ceec8" shop_type_id="10" />
       <row amount="1" default_on="True" item_id="9f3ddbb2-28d3-5df0-c489-f82ed94ceec8" shop_type_id="31" />
@@ -114,7 +114,7 @@
       <row amount="1" default_on="True" item_id="47543273-f239-4f80-897c-46a2c026bd4e" shop_type_id="31" />
       <row amount="1" default_on="True" item_id="47543273-f239-4f80-897c-46a2c026bd4e" shop_type_id="38" />
       
-      <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
+    <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
       <!-- Caparison -->
       <row amount="1" default_on="True" item_id="25d7f4af-af5c-44c5-9852-c7e29ba25e67" shop_type_id="63" />
       <row amount="1" default_on="True" item_id="25d7f4af-af5c-44c5-9852-c7e29ba25e67" shop_type_id="83" />

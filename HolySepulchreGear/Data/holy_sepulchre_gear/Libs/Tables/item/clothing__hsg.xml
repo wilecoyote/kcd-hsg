@@ -2,7 +2,7 @@
 <database name="hammerheart">
   <table name="clothing" version="1">
     <rows>
-      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
+    <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
       <!-- HELMETS -->
       <!-- Hounskull -->
       <row armor_archetype_id="43" clothing_id="7cac159d-42f7-4302-9f5c-78b2b451a4fc" clothing_name="Holy_hounskull" computer_name="WCOYOTE-DT" gender_id="1" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_hounskull" model="s1_p1_l3_v006" morph_target="" race_id="0" timestamp="29/10/2015 20:23" />
@@ -46,7 +46,7 @@
       <!-- Spurs -->
       <row armor_archetype_id="81" clothing_id="1f435fdb-1db1-55ce-ca28-7d454c44f3e6" clothing_name="Holy_spurs" computer_name="WCOYOTE-DT" gender_id="1" influence_type="1" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="s1_p4_l2_v001" model="s1_p4_l2_v001" morph_target="" race_id="0" timestamp="23/06/2017 14:44" />
       
-      <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
+    <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
       <!-- Caparison -->
       <row armor_archetype_id="74" clothing_id="8b7e0468-3de3-4373-b966-001ca197ac0d" clothing_name="Holy_caparison" computer_name="WCOYOTE-DT" gender_id="0" influence_type="0" intersection_translucency_max="" intersection_translucency_min="" lod_persistence="1" material="Holy_caparison" model="sh1_p2_l1_v0" morph_target="" race_id="1" timestamp="29/06/2017 11:54" />
       <!-- Chanfron and Criniere (simple) -->

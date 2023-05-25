@@ -2,11 +2,11 @@
 <database name="hammerheart">
   <table name="armor2clothing_attachment" version="1">
     <rows>
-      <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
+    <!-- RACE 0: HUMANS/GENDER 1: MALE/ITEM TYPE: ARMOR -->
       <!-- Cuirass (gold) -->
       <row brightness="1" clothing_attachment_id="41ad4e85-c661-c7d0-3fda-db9bafc2dc87" color="8421504" color_hue="0" color_saturation="1" computer_name="WCOYOTE-DT" item_id="3ac36b1d-2d08-42fb-b07b-0dfca5b646d4" timestamp="06/09/2017 12:46" zone1_brightness="1" zone1_hue="0" zone1_saturation="1" zone2_brightness="1" zone2_hue="0" zone2_saturation="1" zone3_brightness="1" zone3_hue="0" zone3_saturation="1" />
       
-      <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
+    <!-- RACE 1: HORSES/GENDER 0: NOT-DEFINED/ITEM TYPE: ARMOR -->
       <!-- Noble Saddle 4 side bags -->
       <row brightness="1" clothing_attachment_id="49b28aaa-58e4-8d04-4394-0a352569f9a6" color="8421504" color_hue="0" color_saturation="1" computer_name="WCOYOTE-DT" item_id="853a28a0-f0ea-5a1e-5ade-340c35ea26ef" timestamp="" zone1_brightness="1" zone1_hue="0" zone1_saturation="1" zone2_brightness="1" zone2_hue="0" zone2_saturation="1" zone3_brightness="1" zone3_hue="0" zone3_saturation="1" />
       <row brightness="1" clothing_attachment_id="49fadf78-b6c7-e8ad-b9cc-6520fc5b7a97" color="8421504" color_hue="0" color_saturation="1" computer_name="WCOYOTE-DT" item_id="853a28a0-f0ea-5a1e-5ade-340c35ea26ef" timestamp="" zone1_brightness="1" zone1_hue="0" zone1_saturation="1" zone2_brightness="1" zone2_hue="0" zone2_saturation="1" zone3_brightness="1" zone3_hue="0" zone3_saturation="1" />
