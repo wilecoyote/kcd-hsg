@@ -2,6 +2,18 @@
 
 # Holy Sepulchre Gear
 
+## MOD INFORMATION
+
+* **Origin:**           Not available anymore
+* **Author:**           [RedHazmat](https://www.nexusmods.com/users/51918456)
+* **Maintainer**        [WileCoyote68](https://www.nexusmods.com/users/3428152)
+* **Mirror:**           [ModsInExile](https://discourse.modsinexile.com/t/holy-sepulchre-gear/671)
+* **License:**          [Creative Commons | CC BY-NC-ND](LICENSE.md)
+* **Version History:**  [Changelog](CHANGELOG.md)
+* **Version:**          1.1.9
+* **Date:**             2023/05/25
+* **Category:**         Armor
+
 ## STORY BEHIND
 The original mod was outdated and didn't work completely. Since it was released a while back it also doesn't use patched table files. After getting the permission from [RedHazmat](https://www.nexusmods.com/kingdomcomedeliverance/users/51918456) to create an update of the original Mod, I began working on it.
 
@@ -61,19 +73,9 @@ If you use my mods in combination with older ones that completely overwrite tabl
 * Data/Libs/Tables/item/player_item.xml
 * Data/Libs/Tables/item/weapon.xml
 * Data/Libs/Tables/shop/shop_type2item.xml
-* Localization/Englisch_xml/text_ui_items.xml
+* Localization/English_xml/text_ui_items.xml
 * Localization/German_xml/text_ui_items.xml
 </details>
-
-## PERMISSIONS
-My mods are not intended to be used in collections or mod packs. Therefore, I won't support any related problems!
-
-* All assets in this file belong to the mod author or the asset creator.
-* Upload or sharing on other platforms is prohibited
-* It is not allowed to modify any of the included files/assets or release bug fixes and compatibility patches.
-* You must get permission from the mod author or/and asset creator before you are allowed to use any of the included files/assets
-
-Keep in mind that illegal file sharing is not a service to the general public, but a deliberate disregard and violation of the rights of the content creator and therefore punishable under applicable law.
 
 ## ASSETS USED
 * [Holy Sepulchre Gear (with standalone version)](https://www.nexusmods.com/kingdomcomedeliverance/mods/420) by [RedHazmat](https://www.nexusmods.com/kingdomcomedeliverance/users/51918456)
@@ -106,6 +108,6 @@ Keep in mind that illegal file sharing is not a service to the general public, b
 ### Special Thanks
 * To **[Hogal](https://www.nexusmods.com/users/18448489)** for Graphic Design and Support.
 * To **Senvenga** for Graphic Design and coding instructions
-* And of course to the **[ModsInExile Team](https://discourse.modsinexile.com/about)**
+* And of course the team of **[ModsInExile](https://discourse.modsinexile.com/about)**
 
 # [![KCD Modding|125x36](https://github.com/wilecoyote/kcd-hsg/assets/1034673/3facff5e-f616-4aba-8749-1dec72f32a5c)](https://discord.gg/h89SS5VkvU "Join KCD Modding")
