@@ -67,7 +67,7 @@
       <!-- Longsword-->
       <row entity_script="" item_id="69202fc1-8e53-5e7e-a71a-aa13e47a1d18" material="" model="weapons/swords_short/sword_short_expensive_08" owner_fading_coef="0.02" price="29304" visibility_coef="1" weight="5" />
       <!-- Mace -->
-      <row entity_script="" item_id="1be47d9d-d0d8-55bc-9f90-0f96f8757c82" material="weapons/maces/Holy_mace" model="weapons/maces/mace_08" owner_fading_coef="0.02" price="18956" visibility_coef="1" weight="4.5" />
+      <row entity_script="" item_id="1be47d9d-d0d8-55bc-9f90-0f96f8757c82" material="weapons/maces/Holy_mace/Holy_mace" model="weapons/maces/mace_08" owner_fading_coef="0.02" price="18956" visibility_coef="1" weight="4.5" />
       <!-- Sabre -->
       <row entity_script="" item_id="bdba1151-1c81-5db1-ae3a-ca5437314d86" material="weapons/sabre_hunting_sword/Holy_sabre" model="weapons/sabre_hunting_sword/sabre_06" owner_fading_coef="0.02" price="6337" visibility_coef="1" weight="3" />
       <!-- Shield -->
