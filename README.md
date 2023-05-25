@@ -82,7 +82,8 @@ If you use my mods in combination with older ones that completely overwrite tabl
 * [Medieval 2 Project - Dark Combat Jupon HRE Replacer](https://www.nexusmods.com/kingdomcomedeliverance/mods/1013) by [JudoPoptart](https://www.nexusmods.com/kingdomcomedeliverance/users/58464396)
 
 ## DOWNLOAD
-[Holy_Sepulchre_Gear-1-1-8.zip|attachment](upload://yocR3V1jLdbXTAMSH9Sd0vfmOEz.zip) (78.8 MB)
+
+[Holy_Sepulchre_Gear](https://discourse.modsinexile.com/uploads/short-url/yocR3V1jLdbXTAMSH9Sd0vfmOEz.zip) (78.8 MB)
 
 ## CHANGELOG
 <details><summary>Click to expand</summary>
