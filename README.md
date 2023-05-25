@@ -1,4 +1,4 @@
-![header_MiE](https://github.com/wilecoyote/kcd-hsg/assets/1034673/68bbfe10-2a32-4d7f-bd56-93d6f91706d7)
+![header_git](https://github.com/wilecoyote/kcd-hsg/assets/1034673/2f1d9cab-982a-41ce-b567-0d410c31044f)
 
 # Holy Sepulchre Gear
 
