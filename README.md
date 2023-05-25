@@ -112,4 +112,5 @@ If you use my mods in combination with older ones that completely overwrite tabl
 * To **Senvenga** for Graphic Design and coding instructions
 * And of course the team of **[ModsInExile](https://discourse.modsinexile.com/about)**
 
-# [![KCD Modding|125x36](https://github.com/wilecoyote/kcd-hsg/assets/1034673/3facff5e-f616-4aba-8749-1dec72f32a5c)](https://discord.gg/h89SS5VkvU "Join KCD Modding") [![ModsInExile|125x36](https://github.com/wilecoyote/kcd-hsg/assets/1034673/71eb8471-3be6-4a89-b738-7339d0629f35)](https://discourse.modsinexile.com/)
+# [![ModsInExile](https://github.com/wilecoyote/kcd-hsg/assets/1034673/dea5bd3c-d655-4838-8084-5643608f96d5)](https://discourse.modsinexile.com/)[![KCD Modding](https://github.com/wilecoyote/kcd-hsg/assets/1034673/3facff5e-f616-4aba-8749-1dec72f32a5c)](https://discord.gg/h89SS5VkvU "Join KCD Modding")
+
