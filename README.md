@@ -108,5 +108,4 @@ Keep in mind that illegal file sharing is not a service to the general public, b
 * To **Senvenga** for Graphic Design and coding instructions
 * And of course to the **[ModsInExile Team](https://discourse.modsinexile.com/about)**
 
-
-# [![KCD Modding|125x36](upload://poGM9ajBTdOoay0FR87DnPFi1DW.png#center)](https://discord.gg/h89SS5VkvU "Join KCD Modding")
+# [![KCD Modding|125x36](https://github.com/wilecoyote/kcd-hsg/assets/1034673/3facff5e-f616-4aba-8749-1dec72f32a5c)](https://discord.gg/h89SS5VkvU "Join KCD Modding")
