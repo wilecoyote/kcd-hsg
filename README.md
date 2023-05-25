@@ -1,3 +1,5 @@
+![header_MiE](https://github.com/wilecoyote/kcd-hsg/assets/1034673/68bbfe10-2a32-4d7f-bd56-93d6f91706d7)
+
 # Holy Sepulchre Gear
 
 ## STORY BEHIND
