@@ -25,7 +25,7 @@ This is the most complete armor mod for KC:D so far. It includes the armor in tw
 * Briddle, Caparison, Head Armor, Horse Shoe, Saddle
 </details>
 
-[![hqdefault|480x360](upload://ePqxVnl3XTwAvd1oy586h96iEKC.jpeg)](https://www.youtube.com/watch?v=YlUsLJcF-d4)
+[![Knight of the Holy Sepulchre](https://res.cloudinary.com/marcomontalbano/image/upload/v1685033253/video_to_markdown/images/youtube--YlUsLJcF-d4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=YlUsLJcF-d4 "Knight of the Holy Sepulchre")
 
 ## INSTALLATION INSTRUCTIONS
 It's recommended to use **[Vortex Mod Manger](https://www.nexusmods.com/about/vortex/?)** with hard link deployment for installation. All mods are optimized for this purpose.
