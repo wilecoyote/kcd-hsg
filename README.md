@@ -10,7 +10,7 @@
 * **Mirror:**           [ModsInExile](https://discourse.modsinexile.com/t/holy-sepulchre-gear/671)
 * **License:**          [Creative Commons | CC BY-NC-ND](LICENSE.md)
 * **Version History:**  [Changelog](CHANGELOG.md)
-* **Version:**          1.1.9
+* **Version:**          1.2.0
 * **Date:**             2023/05/25
 * **Category:**         Armor
 
