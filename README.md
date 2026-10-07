@@ -85,10 +85,14 @@ If you use my mods in combination with older ones that completely overwrite tabl
 ## DOWNLOAD
 
 ### MiRROR
-[Holy_Sepulchre_Gear](https://discourse.modsinexile.com/uploads/short-url/yocR3V1jLdbXTAMSH9Sd0vfmOEz.zip) (78.8 MB)
+[Holy_Sepulchre_Gear v1.2.0](https://mega.nz/file/akkzVSIS#BOrJhNXS55SONtgjmR-SUJfIzDEwZceNMEmaL2P0BJ4)
 
 ## CHANGELOG
 <details><summary>Click to expand</summary>
+
+### Version 1.2.0
+
+* Added support for KCD version 1.9.8
 
 ### Version 1.1.9
 
